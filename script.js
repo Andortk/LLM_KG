@@ -48,15 +48,15 @@ cy.style([
   layout.run(); 
   
   
-  // Resizing functionality 
+// Resizing functionality 
 const cyContainer = document.getElementById('cy-container');
 const resizeHandle = document.getElementById('resize-handle');
 let isResizing = false;
-let lastHeight = 850; // Initial height
+let lastHeight = 865; // Initial height
 
 resizeHandle.addEventListener('mousedown', function(e) {
   isResizing = true;
-  lastHeight = cyContainer.offsetHeight; 
+  lastHeight = cyContainer.offsetHeight;
 });
 
 window.addEventListener('mousemove', function(e) {
