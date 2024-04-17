@@ -1,0 +1,3954 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.10.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "LLM-research-project-full-Knowledge-Graph_by_Andrew_Turk_v6 gml.gml",
+    "name" : "LLM-research-project-full-Knowledge-Graph_by_Andrew_Turk_v6 gml.gml",
+    "SUID" : 2984,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "3387",
+        "shared_name" : "Running an LLM on  your own local hardware",
+        "name" : "Running an LLM on  your own local hardware",
+        "LabelGraphics" : "[]",
+        "SUID" : 3387,
+        "label" : "Running an LLM on  your own local hardware",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1336.3524719444874,
+        "y" : 712.4212546905667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3384",
+        "shared_name" : "OpenRouter, Martian Router, TogetherAI, that all do auto-routing",
+        "name" : "OpenRouter, Martian Router, TogetherAI, that all do auto-routing",
+        "LabelGraphics" : "[]",
+        "SUID" : 3384,
+        "label" : "OpenRouter, Martian Router, TogetherAI, that all do auto-routing",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1155.0162659724367,
+        "y" : 817.5438820358502
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3381",
+        "shared_name" : "API routing to the cheapest  LLM for the job",
+        "name" : "API routing to the cheapest  LLM for the job",
+        "LabelGraphics" : "[]",
+        "SUID" : 3381,
+        "label" : "API routing to the cheapest  LLM for the job",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1155.0162659724367,
+        "y" : 712.4212546905667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3378",
+        "shared_name" : "Cost for API calls",
+        "name" : "Cost for API calls",
+        "LabelGraphics" : "[]",
+        "SUID" : 3378,
+        "label" : "Cost for API calls",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1245.684368958462,
+        "y" : 592.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3375",
+        "shared_name" : "PS+ theory",
+        "name" : "PS+ theory",
+        "LabelGraphics" : "[]",
+        "SUID" : 3375,
+        "label" : "PS+ theory",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1810.1502196146546,
+        "y" : 1567.4212546905667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3372",
+        "shared_name" : "Chain-of-thought prompting",
+        "name" : "Chain-of-thought prompting",
+        "LabelGraphics" : "[]",
+        "SUID" : 3372,
+        "label" : "Chain-of-thought prompting",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1810.1502196146546,
+        "y" : 1462.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3369",
+        "shared_name" : "Rabbit R1 - https://www.rabbit.tech Humane AI pin - https://www.youtube.com/watch?v=NyPxwp3SxdU",
+        "name" : "Rabbit R1 - https://www.rabbit.tech Humane AI pin - https://www.youtube.com/watch?v=NyPxwp3SxdU",
+        "LabelGraphics" : "[]",
+        "SUID" : 3369,
+        "label" : "Rabbit R1 - https://www.rabbit.tech Humane AI pin - https://www.youtube.com/watch?v=NyPxwp3SxdU",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 676.6865234375,
+        "y" : 2927.224925540388
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3366",
+        "shared_name" : "system 2 thinking",
+        "name" : "system 2 thinking",
+        "LabelGraphics" : "[]",
+        "SUID" : 3366,
+        "label" : "system 2 thinking",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2003.2228272603454,
+        "y" : 1462.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3363",
+        "shared_name" : "Wearable LLM powered smart devices that learn actions  you perform on your computer have already come to market.",
+        "name" : "Wearable LLM powered smart devices that learn actions  you perform on your computer have already come to market.",
+        "LabelGraphics" : "[]",
+        "SUID" : 3363,
+        "label" : "Wearable LLM powered smart devices that learn actions  you perform on your computer have already come to market.",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 676.6865234375,
+        "y" : 2803.478931731403
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3360",
+        "shared_name" : "a mouse, a keyboard, a screen, and the ability to use a computer  no longer needed. This is like &quot;self-driving&quot; cars,  but for your whole computer. All you would need to do is  talk to it in natural language, with a microphone",
+        "name" : "a mouse, a keyboard, a screen, and the ability to use a computer  no longer needed. This is like &quot;self-driving&quot; cars,  but for your whole computer. All you would need to do is  talk to it in natural language, with a microphone",
+        "LabelGraphics" : "[]",
+        "SUID" : 3360,
+        "label" : "a mouse, a keyboard, a screen, and the ability to use a computer  no longer needed. This is like &quot;self-driving&quot; cars,  but for your whole computer. All you would need to do is  talk to it in natural language, with a microphone",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 676.6865234375,
+        "y" : 2679.732937922418
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3357",
+        "shared_name" : "Mimic a human, and perform human-level , digital actions.",
+        "name" : "Mimic a human, and perform human-level , digital actions.",
+        "LabelGraphics" : "[]",
+        "SUID" : 3357,
+        "label" : "Mimic a human, and perform human-level , digital actions.",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 676.6865234375,
+        "y" : 2565.298627345284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3354",
+        "shared_name" : "It would theoretically be possible to ask it to plan a big wedding,  compose full and complete personalised apps, books, tv shows, movies,  perform professional level analyses' and  produce publication-ready research papers",
+        "name" : "It would theoretically be possible to ask it to plan a big wedding,  compose full and complete personalised apps, books, tv shows, movies,  perform professional level analyses' and  produce publication-ready research papers",
+        "LabelGraphics" : "[]",
+        "SUID" : 3354,
+        "label" : "It would theoretically be possible to ask it to plan a big wedding,  compose full and complete personalised apps, books, tv shows, movies,  perform professional level analyses' and  produce publication-ready research papers",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1072.7770217911316,
+        "y" : 3140.238491007665
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3351",
+        "shared_name" : "Ordering food online, booking a flight, calling a taxi,  updating a social media status, turning on and off smart lights, sending money online,  sending messages to friends through any messaging apps,  booking appointments of any kind.",
+        "name" : "Ordering food online, booking a flight, calling a taxi,  updating a social media status, turning on and off smart lights, sending money online,  sending messages to friends through any messaging apps,  booking appointments of any kind.",
+        "LabelGraphics" : "[]",
+        "SUID" : 3351,
+        "label" : "Ordering food online, booking a flight, calling a taxi,  updating a social media status, turning on and off smart lights, sending money online,  sending messages to friends through any messaging apps,  booking appointments of any kind.",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1072.7770217911316,
+        "y" : 3013.674487799567
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3348",
+        "shared_name" : "Running a Google, Bing, wikipedia  or any other form of Search, and using  the search results in an answer",
+        "name" : "Running a Google, Bing, wikipedia  or any other form of Search, and using  the search results in an answer",
+        "LabelGraphics" : "[]",
+        "SUID" : 3348,
+        "label" : "Running a Google, Bing, wikipedia  or any other form of Search, and using  the search results in an answer",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2011.6865234375,
+        "y" : 2619.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3345",
+        "shared_name" : "BDI /  Belief - Desire - Intent theory",
+        "name" : "BDI /  Belief - Desire - Intent theory",
+        "LabelGraphics" : "[]",
+        "SUID" : 3345,
+        "label" : "BDI /  Belief - Desire - Intent theory",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1681.6865234375,
+        "y" : 1989.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3342",
+        "shared_name" : "using a specific, user given data source  (text, video, table, etc) from  which to look for and retrieve the answers from",
+        "name" : "using a specific, user given data source  (text, video, table, etc) from  which to look for and retrieve the answers from",
+        "LabelGraphics" : "[]",
+        "SUID" : 3342,
+        "label" : "using a specific, user given data source  (text, video, table, etc) from  which to look for and retrieve the answers from",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3301.6865234375,
+        "y" : 2934.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3339",
+        "shared_name" : "RAG / Retrieval  Augmented Generation",
+        "name" : "RAG / Retrieval  Augmented Generation",
+        "LabelGraphics" : "[]",
+        "SUID" : 3339,
+        "label" : "RAG / Retrieval  Augmented Generation",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3301.6865234375,
+        "y" : 2754.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3336",
+        "shared_name" : "Your &quot;Microsoft calendar&quot; app talking to your  &quot;Google calendar&quot; app, to stay in sync",
+        "name" : "Your &quot;Microsoft calendar&quot; app talking to your  &quot;Google calendar&quot; app, to stay in sync",
+        "LabelGraphics" : "[]",
+        "SUID" : 3336,
+        "label" : "Your &quot;Microsoft calendar&quot; app talking to your  &quot;Google calendar&quot; app, to stay in sync",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1360.5960250838684,
+        "y" : 2986.2105921967013
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3333",
+        "shared_name" : "An API is a system that allows two independant  apps to communicate between eachother",
+        "name" : "An API is a system that allows two independant  apps to communicate between eachother",
+        "LabelGraphics" : "[]",
+        "SUID" : 3333,
+        "label" : "An API is a system that allows two independant  apps to communicate between eachother",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1360.5960250838684,
+        "y" : 2881.087964851418
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3330",
+        "shared_name" : "perform thousands of API actions",
+        "name" : "perform thousands of API actions",
+        "LabelGraphics" : "[]",
+        "SUID" : 3330,
+        "label" : "perform thousands of API actions",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1072.7770217911316,
+        "y" : 2895.789136726418
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3327",
+        "shared_name" : "generate API code",
+        "name" : "generate API code",
+        "LabelGraphics" : "[]",
+        "SUID" : 3327,
+        "label" : "generate API code",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1216.6865234375,
+        "y" : 2775.6665093811343
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3324",
+        "shared_name" : "interfaces with an external  database of API documentation",
+        "name" : "interfaces with an external  database of API documentation",
+        "LabelGraphics" : "[]",
+        "SUID" : 3324,
+        "label" : "interfaces with an external  database of API documentation",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1216.6865234375,
+        "y" : 2670.543882035851
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3321",
+        "shared_name" : "Write structured code",
+        "name" : "Write structured code",
+        "LabelGraphics" : "[]",
+        "SUID" : 3321,
+        "label" : "Write structured code",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1216.6865234375,
+        "y" : 2565.4212546905674
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3318",
+        "shared_name" : "Microsoft Autogen Studio,  CrewAI,  Langchain",
+        "name" : "Microsoft Autogen Studio,  CrewAI,  Langchain",
+        "LabelGraphics" : "[]",
+        "SUID" : 3318,
+        "label" : "Microsoft Autogen Studio,  CrewAI,  Langchain",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1876.6865234375,
+        "y" : 2154.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3315",
+        "shared_name" : "Gorilla LLM,  from stanford research",
+        "name" : "Gorilla LLM,  from stanford research",
+        "LabelGraphics" : "[]",
+        "SUID" : 3315,
+        "label" : "Gorilla LLM,  from stanford research",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1216.6865234375,
+        "y" : 2460.298627345284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3312",
+        "shared_name" : "hallucinations",
+        "name" : "hallucinations",
+        "LabelGraphics" : "[]",
+        "SUID" : 3312,
+        "label" : "hallucinations",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2251.6865234375,
+        "y" : 1119.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3309",
+        "shared_name" : "Reliability and  consistancy",
+        "name" : "Reliability and  consistancy",
+        "LabelGraphics" : "[]",
+        "SUID" : 3309,
+        "label" : "Reliability and  consistancy",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2386.6865234375,
+        "y" : 1149.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3306",
+        "shared_name" : "Factual accuracy",
+        "name" : "Factual accuracy",
+        "LabelGraphics" : "[]",
+        "SUID" : 3306,
+        "label" : "Factual accuracy",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1711.6865234375,
+        "y" : 1044.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3303",
+        "shared_name" : "BTX / Branch Train Mix  &quot;fine tuning&quot; into a MoE",
+        "name" : "BTX / Branch Train Mix  &quot;fine tuning&quot; into a MoE",
+        "LabelGraphics" : "[]",
+        "SUID" : 3303,
+        "label" : "BTX / Branch Train Mix  &quot;fine tuning&quot; into a MoE",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3840.2198607985256,
+        "y" : 3519.597455470284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3300",
+        "shared_name" : "KTO / Kahneman-Tversky  Optimization",
+        "name" : "KTO / Kahneman-Tversky  Optimization",
+        "LabelGraphics" : "[]",
+        "SUID" : 3300,
+        "label" : "KTO / Kahneman-Tversky  Optimization",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3840.2198607985256,
+        "y" : 3596.5189109405674
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3297",
+        "shared_name" : "DPO / Direct preference Optimization",
+        "name" : "DPO / Direct preference Optimization",
+        "LabelGraphics" : "[]",
+        "SUID" : 3297,
+        "label" : "DPO / Direct preference Optimization",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3840.2198607985256,
+        "y" : 3673.440366410851
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3294",
+        "shared_name" : "Figure One",
+        "name" : "Figure One",
+        "LabelGraphics" : "[]",
+        "SUID" : 3294,
+        "label" : "Figure One",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3426.2294921875,
+        "y" : 1132.2676212816516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3291",
+        "shared_name" : "Mobile Aloha",
+        "name" : "Mobile Aloha",
+        "LabelGraphics" : "[]",
+        "SUID" : 3291,
+        "label" : "Mobile Aloha",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3572.2294921875,
+        "y" : 1132.2676212816516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3288",
+        "shared_name" : "Tesla",
+        "name" : "Tesla",
+        "LabelGraphics" : "[]",
+        "SUID" : 3288,
+        "label" : "Tesla",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3718.2294921875,
+        "y" : 1132.2676212816516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3285",
+        "shared_name" : "Boston Dynamics",
+        "name" : "Boston Dynamics",
+        "LabelGraphics" : "[]",
+        "SUID" : 3285,
+        "label" : "Boston Dynamics",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3864.2294921875,
+        "y" : 1132.2676212816516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3282",
+        "shared_name" : "Ring Attention / Mechanism for  processing near infinite context size",
+        "name" : "Ring Attention / Mechanism for  processing near infinite context size",
+        "LabelGraphics" : "[]",
+        "SUID" : 3282,
+        "label" : "Ring Attention / Mechanism for  processing near infinite context size",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3001.6865234375,
+        "y" : 2199.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3279",
+        "shared_name" : "Groq LPU / Purpose  built LLM processing units",
+        "name" : "Groq LPU / Purpose  built LLM processing units",
+        "LabelGraphics" : "[]",
+        "SUID" : 3279,
+        "label" : "Groq LPU / Purpose  built LLM processing units",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 226.6865234375,
+        "y" : 1329.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3276",
+        "shared_name" : "Nvidia /  GPU manufacturor",
+        "name" : "Nvidia /  GPU manufacturor",
+        "LabelGraphics" : "[]",
+        "SUID" : 3276,
+        "label" : "Nvidia /  GPU manufacturor",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3434.242630778946,
+        "y" : 586.3068607654209
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3273",
+        "shared_name" : "Google - Gemini",
+        "name" : "Google - Gemini",
+        "LabelGraphics" : "[]",
+        "SUID" : 3273,
+        "label" : "Google - Gemini",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3595.242630778946,
+        "y" : 586.3068607654209
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3270",
+        "shared_name" : "Facebook - LLama",
+        "name" : "Facebook - LLama",
+        "LabelGraphics" : "[]",
+        "SUID" : 3270,
+        "label" : "Facebook - LLama",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3434.242630778946,
+        "y" : 663.226860765421
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3267",
+        "shared_name" : "Mistral",
+        "name" : "Mistral",
+        "LabelGraphics" : "[]",
+        "SUID" : 3267,
+        "label" : "Mistral",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3595.242630778946,
+        "y" : 663.226860765421
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3264",
+        "shared_name" : "Anthropic - Claude",
+        "name" : "Anthropic - Claude",
+        "LabelGraphics" : "[]",
+        "SUID" : 3264,
+        "label" : "Anthropic - Claude",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3434.242630778946,
+        "y" : 740.146860765421
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3261",
+        "shared_name" : "Cohere - Command",
+        "name" : "Cohere - Command",
+        "LabelGraphics" : "[]",
+        "SUID" : 3261,
+        "label" : "Cohere - Command",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3595.242630778946,
+        "y" : 740.146860765421
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3258",
+        "shared_name" : "OpenAI/Microsoft - GPT",
+        "name" : "OpenAI/Microsoft - GPT",
+        "LabelGraphics" : "[]",
+        "SUID" : 3258,
+        "label" : "OpenAI/Microsoft - GPT",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3428.3689375331614,
+        "y" : 826.44642582823
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3255",
+        "shared_name" : "Devin, Open Devin and Devika",
+        "name" : "Devin, Open Devin and Devika",
+        "LabelGraphics" : "[]",
+        "SUID" : 3255,
+        "label" : "Devin, Open Devin and Devika",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4046.7309285068586,
+        "y" : 1089.5664494066516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3252",
+        "shared_name" : "Programming",
+        "name" : "Programming",
+        "LabelGraphics" : "[]",
+        "SUID" : 3252,
+        "label" : "Programming",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4046.7309285068586,
+        "y" : 1012.1449939363681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3249",
+        "shared_name" : "Education",
+        "name" : "Education",
+        "LabelGraphics" : "[]",
+        "SUID" : 3249,
+        "label" : "Education",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4192.730928506859,
+        "y" : 1012.1449939363681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3246",
+        "shared_name" : "Scientific research",
+        "name" : "Scientific research",
+        "LabelGraphics" : "[]",
+        "SUID" : 3246,
+        "label" : "Scientific research",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4338.730928506859,
+        "y" : 1012.1449939363681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3243",
+        "shared_name" : "Healthcare",
+        "name" : "Healthcare",
+        "LabelGraphics" : "[]",
+        "SUID" : 3243,
+        "label" : "Healthcare",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4484.730928506859,
+        "y" : 1012.1449939363681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3240",
+        "shared_name" : "virtual analysts",
+        "name" : "virtual analysts",
+        "LabelGraphics" : "[]",
+        "SUID" : 3240,
+        "label" : "virtual analysts",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4630.730928506859,
+        "y" : 1012.1449939363681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3237",
+        "shared_name" : "LLM augmented Robotics",
+        "name" : "LLM augmented Robotics",
+        "LabelGraphics" : "[]",
+        "SUID" : 3237,
+        "label" : "LLM augmented Robotics",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3645.2294921875,
+        "y" : 1012.1449939363681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3234",
+        "shared_name" : "Applications and  use cases",
+        "name" : "Applications and  use cases",
+        "LabelGraphics" : "[]",
+        "SUID" : 3234,
+        "label" : "Applications and  use cases",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4265.730928506858,
+        "y" : 872.3774467029212
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3231",
+        "shared_name" : "Economic implications of  OpenSource and local LLMs",
+        "name" : "Economic implications of  OpenSource and local LLMs",
+        "LabelGraphics" : "[]",
+        "SUID" : 3231,
+        "label" : "Economic implications of  OpenSource and local LLMs",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3762.242630778946,
+        "y" : 734.632843191129
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3228",
+        "shared_name" : "Training",
+        "name" : "Training",
+        "LabelGraphics" : "[]",
+        "SUID" : 3228,
+        "label" : "Training",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4083.9203651539465,
+        "y" : 586.3068607654209
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3225",
+        "shared_name" : "Neural networks",
+        "name" : "Neural networks",
+        "LabelGraphics" : "[]",
+        "SUID" : 3225,
+        "label" : "Neural networks",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4354.2934120289465,
+        "y" : 586.3068607654209
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3222",
+        "shared_name" : "Weights and biases",
+        "name" : "Weights and biases",
+        "LabelGraphics" : "[]",
+        "SUID" : 3222,
+        "label" : "Weights and biases",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4075.242630778946,
+        "y" : 663.226860765421
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3219",
+        "shared_name" : "LLMs vs ML",
+        "name" : "LLMs vs ML",
+        "LabelGraphics" : "[]",
+        "SUID" : 3219,
+        "label" : "LLMs vs ML",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4411.6625526539465,
+        "y" : 663.226860765421
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3216",
+        "shared_name" : "LLMs vs Expert Systems and future potential",
+        "name" : "LLMs vs Expert Systems and future potential",
+        "LabelGraphics" : "[]",
+        "SUID" : 3216,
+        "label" : "LLMs vs Expert Systems and future potential",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4567.6625526539465,
+        "y" : 614.510215845846
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3213",
+        "shared_name" : "ChatGPT",
+        "name" : "ChatGPT",
+        "LabelGraphics" : "[]",
+        "SUID" : 3213,
+        "label" : "ChatGPT",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3929.242630778946,
+        "y" : 734.632843191129
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3210",
+        "shared_name" : "Local and OpenSource LLMs",
+        "name" : "Local and OpenSource LLMs",
+        "LabelGraphics" : "[]",
+        "SUID" : 3210,
+        "label" : "Local and OpenSource LLMs",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3762.242630778946,
+        "y" : 629.510215845846
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3207",
+        "shared_name" : "LLM as a service",
+        "name" : "LLM as a service",
+        "LabelGraphics" : "[]",
+        "SUID" : 3207,
+        "label" : "LLM as a service",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3929.242630778946,
+        "y" : 629.510215845846
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3204",
+        "shared_name" : "important",
+        "name" : "important",
+        "LabelGraphics" : "[]",
+        "SUID" : 3204,
+        "label" : "important",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4567.6625526539465,
+        "y" : 509.38758850056206
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3201",
+        "shared_name" : "main players",
+        "name" : "main players",
+        "LabelGraphics" : "[]",
+        "SUID" : 3201,
+        "label" : "main players",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3514.742630778946,
+        "y" : 509.38686076542075
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3198",
+        "shared_name" : "LLM technology &quot;start&quot;",
+        "name" : "LLM technology &quot;start&quot;",
+        "LabelGraphics" : "[]",
+        "SUID" : 3198,
+        "label" : "LLM technology &quot;start&quot;",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4729.65922300378,
+        "y" : 509.38758850056206
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3195",
+        "shared_name" : "work",
+        "name" : "work",
+        "LabelGraphics" : "[]",
+        "SUID" : 3195,
+        "label" : "work",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4214.7680214039465,
+        "y" : 509.38686076542075
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3192",
+        "shared_name" : "type exists",
+        "name" : "type exists",
+        "LabelGraphics" : "[]",
+        "SUID" : 3192,
+        "label" : "type exists",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3845.742630778946,
+        "y" : 509.38758850056206
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3189",
+        "shared_name" : "Large Language models",
+        "name" : "Large Language models",
+        "LabelGraphics" : "[]",
+        "SUID" : 3189,
+        "label" : "Large Language models",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4214.7680214039465,
+        "y" : 371.93120831278134
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3186",
+        "shared_name" : "The current state  of LLM technology :  an in-depth review",
+        "name" : "The current state  of LLM technology :  an in-depth review",
+        "LabelGraphics" : "[]",
+        "SUID" : 3186,
+        "label" : "The current state  of LLM technology :  an in-depth review",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3256.6865234375,
+        "y" : 129.13672773514176
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3183",
+        "shared_name" : "expected outcomes and business potential",
+        "name" : "expected outcomes and business potential",
+        "LabelGraphics" : "[]",
+        "SUID" : 3183,
+        "label" : "expected outcomes and business potential",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1517.6886779165382,
+        "y" : 697.4212546905667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3180",
+        "shared_name" : "Using a computer,  through a command  line interface",
+        "name" : "Using a computer,  through a command  line interface",
+        "LabelGraphics" : "[]",
+        "SUID" : 3180,
+        "label" : "Using a computer,  through a command  line interface",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 676.6865234375,
+        "y" : 2439.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3177",
+        "shared_name" : "Automated API calls",
+        "name" : "Automated API calls",
+        "LabelGraphics" : "[]",
+        "SUID" : 3177,
+        "label" : "Automated API calls",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1216.6865234375,
+        "y" : 2289.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3174",
+        "shared_name" : "Multi-agent conversation,  in parallel, in series,  or both",
+        "name" : "Multi-agent conversation,  in parallel, in series,  or both",
+        "LabelGraphics" : "[]",
+        "SUID" : 3174,
+        "label" : "Multi-agent conversation,  in parallel, in series,  or both",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1876.6865234375,
+        "y" : 1989.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3171",
+        "shared_name" : "Output quality  and performance",
+        "name" : "Output quality  and performance",
+        "LabelGraphics" : "[]",
+        "SUID" : 3171,
+        "label" : "Output quality  and performance",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 481.6865234375,
+        "y" : 1164.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3168",
+        "shared_name" : "contexte size, by increasing  model size and compute",
+        "name" : "contexte size, by increasing  model size and compute",
+        "LabelGraphics" : "[]",
+        "SUID" : 3168,
+        "label" : "contexte size, by increasing  model size and compute",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3466.6865234375,
+        "y" : 3294.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3165",
+        "shared_name" : "Tool use",
+        "name" : "Tool use",
+        "LabelGraphics" : "[]",
+        "SUID" : 3165,
+        "label" : "Tool use",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1516.6865234375,
+        "y" : 2109.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3162",
+        "shared_name" : "Web research ability",
+        "name" : "Web research ability",
+        "LabelGraphics" : "[]",
+        "SUID" : 3162,
+        "label" : "Web research ability",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2011.6865234375,
+        "y" : 2454.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3159",
+        "shared_name" : "Complexe and/or   deeply technical content",
+        "name" : "Complexe and/or   deeply technical content",
+        "LabelGraphics" : "[]",
+        "SUID" : 3159,
+        "label" : "Complexe and/or   deeply technical content",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2116.6865234375,
+        "y" : 1014.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3156",
+        "shared_name" : "Summerizing conversation in real time,  acting as short term memory",
+        "name" : "Summerizing conversation in real time,  acting as short term memory",
+        "LabelGraphics" : "[]",
+        "SUID" : 3156,
+        "label" : "Summerizing conversation in real time,  acting as short term memory",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2716.6865234375,
+        "y" : 2169.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3153",
+        "shared_name" : "Database in vector format,  as a memory bank",
+        "name" : "Database in vector format,  as a memory bank",
+        "LabelGraphics" : "[]",
+        "SUID" : 3153,
+        "label" : "Database in vector format,  as a memory bank",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2461.6865234375,
+        "y" : 2289.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3150",
+        "shared_name" : "Thinking  step by step",
+        "name" : "Thinking  step by step",
+        "LabelGraphics" : "[]",
+        "SUID" : 3150,
+        "label" : "Thinking  step by step",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1906.6865234375,
+        "y" : 1299.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3147",
+        "shared_name" : "Agenthood",
+        "name" : "Agenthood",
+        "LabelGraphics" : "[]",
+        "SUID" : 3147,
+        "label" : "Agenthood",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1681.6865234375,
+        "y" : 1809.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3144",
+        "shared_name" : "RLHF / Reinforcement Learning From Human Feedback",
+        "name" : "RLHF / Reinforcement Learning From Human Feedback",
+        "LabelGraphics" : "[]",
+        "SUID" : 3144,
+        "label" : "RLHF / Reinforcement Learning From Human Feedback",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 166.6865234375,
+        "y" : 714.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3141",
+        "shared_name" : "Fine tuning",
+        "name" : "Fine tuning",
+        "LabelGraphics" : "[]",
+        "SUID" : 3141,
+        "label" : "Fine tuning",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3661.6865234375,
+        "y" : 3414.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3138",
+        "shared_name" : "creativity and  innovation",
+        "name" : "creativity and  innovation",
+        "LabelGraphics" : "[]",
+        "SUID" : 3138,
+        "label" : "creativity and  innovation",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1906.6865234375,
+        "y" : 1014.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3135",
+        "shared_name" : "bias",
+        "name" : "bias",
+        "LabelGraphics" : "[]",
+        "SUID" : 3135,
+        "label" : "bias",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 166.6865234375,
+        "y" : 549.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3132",
+        "shared_name" : "computation ressources  and energy (electricity)",
+        "name" : "computation ressources  and energy (electricity)",
+        "LabelGraphics" : "[]",
+        "SUID" : 3132,
+        "label" : "computation ressources  and energy (electricity)",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1517.6886779165382,
+        "y" : 592.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3129",
+        "shared_name" : "Reasoning ability",
+        "name" : "Reasoning ability",
+        "LabelGraphics" : "[]",
+        "SUID" : 3129,
+        "label" : "Reasoning ability",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1411.6865234375,
+        "y" : 969.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3126",
+        "shared_name" : "Long term memory",
+        "name" : "Long term memory",
+        "LabelGraphics" : "[]",
+        "SUID" : 3126,
+        "label" : "Long term memory",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2461.6865234375,
+        "y" : 2094.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3123",
+        "shared_name" : "up-to-date data",
+        "name" : "up-to-date data",
+        "LabelGraphics" : "[]",
+        "SUID" : 3123,
+        "label" : "up-to-date data",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3211.6865234375,
+        "y" : 2199.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3120",
+        "shared_name" : "Explainabiliy",
+        "name" : "Explainabiliy",
+        "LabelGraphics" : "[]",
+        "SUID" : 3120,
+        "label" : "Explainabiliy",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1486.6865234375,
+        "y" : 1074.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3117",
+        "shared_name" : "context size",
+        "name" : "context size",
+        "LabelGraphics" : "[]",
+        "SUID" : 3117,
+        "label" : "context size",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 3001.6865234375,
+        "y" : 2019.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3114",
+        "shared_name" : "llm limitations and mitigation strategies",
+        "name" : "llm limitations and mitigation strategies",
+        "LabelGraphics" : "[]",
+        "SUID" : 3114,
+        "label" : "llm limitations and mitigation strategies",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1906.6865234375,
+        "y" : 384.1367277351418
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3111",
+        "shared_name" : "Personhood question",
+        "name" : "Personhood question",
+        "LabelGraphics" : "[]",
+        "SUID" : 3111,
+        "label" : "Personhood question",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4544.6865234375,
+        "y" : 1784.6665093811341
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3108",
+        "shared_name" : "Unintended use",
+        "name" : "Unintended use",
+        "LabelGraphics" : "[]",
+        "SUID" : 3108,
+        "label" : "Unintended use",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 6226.6865234375,
+        "y" : 1839.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3105",
+        "shared_name" : "Unintended outcomes",
+        "name" : "Unintended outcomes",
+        "LabelGraphics" : "[]",
+        "SUID" : 3105,
+        "label" : "Unintended outcomes",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5761.6865234375,
+        "y" : 1434.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3102",
+        "shared_name" : "Security",
+        "name" : "Security",
+        "LabelGraphics" : "[]",
+        "SUID" : 3102,
+        "label" : "Security",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4690.6865234375,
+        "y" : 1784.6665093811341
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3099",
+        "shared_name" : "Economic equality",
+        "name" : "Economic equality",
+        "LabelGraphics" : "[]",
+        "SUID" : 3099,
+        "label" : "Economic equality",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4836.6865234375,
+        "y" : 1784.6665093811341
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3096",
+        "shared_name" : "Sensitive data",
+        "name" : "Sensitive data",
+        "LabelGraphics" : "[]",
+        "SUID" : 3096,
+        "label" : "Sensitive data",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4893.6865234375,
+        "y" : 2068.298627345284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3093",
+        "shared_name" : "Private data",
+        "name" : "Private data",
+        "LabelGraphics" : "[]",
+        "SUID" : 3093,
+        "label" : "Private data",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5039.6865234375,
+        "y" : 2068.298627345284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3090",
+        "shared_name" : "Energy consumption",
+        "name" : "Energy consumption",
+        "LabelGraphics" : "[]",
+        "SUID" : 3090,
+        "label" : "Energy consumption",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4763.6865234375,
+        "y" : 1447.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3087",
+        "shared_name" : "psychological vulnerabilities",
+        "name" : "psychological vulnerabilities",
+        "LabelGraphics" : "[]",
+        "SUID" : 3087,
+        "label" : "psychological vulnerabilities",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5266.6865234375,
+        "y" : 2139.1367277351424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3084",
+        "shared_name" : "Unsafe use",
+        "name" : "Unsafe use",
+        "LabelGraphics" : "[]",
+        "SUID" : 3084,
+        "label" : "Unsafe use",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 6226.6865234375,
+        "y" : 2019.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3081",
+        "shared_name" : "Fraud",
+        "name" : "Fraud",
+        "LabelGraphics" : "[]",
+        "SUID" : 3081,
+        "label" : "Fraud",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 6202.5537109375,
+        "y" : 2124.597455470284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3078",
+        "shared_name" : "Hate speech",
+        "name" : "Hate speech",
+        "LabelGraphics" : "[]",
+        "SUID" : 3078,
+        "label" : "Hate speech",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 6202.5537109375,
+        "y" : 2201.518910940568
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3075",
+        "shared_name" : "Exclusion",
+        "name" : "Exclusion",
+        "LabelGraphics" : "[]",
+        "SUID" : 3075,
+        "label" : "Exclusion",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5448.332265359923,
+        "y" : 1822.8427101608506
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3072",
+        "shared_name" : "Sterotypes",
+        "name" : "Sterotypes",
+        "LabelGraphics" : "[]",
+        "SUID" : 3072,
+        "label" : "Sterotypes",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5448.332265359923,
+        "y" : 1732.4212546905671
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3069",
+        "shared_name" : "Social bias",
+        "name" : "Social bias",
+        "LabelGraphics" : "[]",
+        "SUID" : 3069,
+        "label" : "Social bias",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5521.332265359923,
+        "y" : 1612.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3066",
+        "shared_name" : "Data management",
+        "name" : "Data management",
+        "LabelGraphics" : "[]",
+        "SUID" : 3066,
+        "label" : "Data management",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4966.6865234375,
+        "y" : 1914.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3063",
+        "shared_name" : "Data leaks",
+        "name" : "Data leaks",
+        "LabelGraphics" : "[]",
+        "SUID" : 3063,
+        "label" : "Data leaks",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5667.332265359923,
+        "y" : 1612.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3060",
+        "shared_name" : "Environmental harms",
+        "name" : "Environmental harms",
+        "LabelGraphics" : "[]",
+        "SUID" : 3060,
+        "label" : "Environmental harms",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4763.6865234375,
+        "y" : 1552.4212546905667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3057",
+        "shared_name" : "Knowledge work",
+        "name" : "Knowledge work",
+        "LabelGraphics" : "[]",
+        "SUID" : 3057,
+        "label" : "Knowledge work",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4544.6865234375,
+        "y" : 1672.5438820358502
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3054",
+        "shared_name" : "Human-Computer Interaction Harms ",
+        "name" : "Human-Computer Interaction Harms ",
+        "LabelGraphics" : "[]",
+        "SUID" : 3054,
+        "label" : "Human-Computer Interaction Harms ",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5856.040781515076,
+        "y" : 1612.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3051",
+        "shared_name" : "Malicious uses",
+        "name" : "Malicious uses",
+        "LabelGraphics" : "[]",
+        "SUID" : 3051,
+        "label" : "Malicious uses",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 6061.6865234375,
+        "y" : 1989.136727735142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3048",
+        "shared_name" : "Misinformation",
+        "name" : "Misinformation",
+        "LabelGraphics" : "[]",
+        "SUID" : 3048,
+        "label" : "Misinformation",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 6202.5537109375,
+        "y" : 2278.4403664108513
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3045",
+        "shared_name" : "Toxicity",
+        "name" : "Toxicity",
+        "LabelGraphics" : "[]",
+        "SUID" : 3045,
+        "label" : "Toxicity",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 6044.749297670228,
+        "y" : 1612.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3042",
+        "shared_name" : "Discrimination",
+        "name" : "Discrimination",
+        "LabelGraphics" : "[]",
+        "SUID" : 3042,
+        "label" : "Discrimination",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 5594.332265359923,
+        "y" : 1732.4212546905671
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3039",
+        "shared_name" : "privacy violations",
+        "name" : "privacy violations",
+        "LabelGraphics" : "[]",
+        "SUID" : 3039,
+        "label" : "privacy violations",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4351.6865234375,
+        "y" : 1404.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3036",
+        "shared_name" : "Copyright infrengement",
+        "name" : "Copyright infrengement",
+        "LabelGraphics" : "[]",
+        "SUID" : 3036,
+        "label" : "Copyright infrengement",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4171.6865234375,
+        "y" : 1479.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3033",
+        "shared_name" : "Physical work",
+        "name" : "Physical work",
+        "LabelGraphics" : "[]",
+        "SUID" : 3033,
+        "label" : "Physical work",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4690.6865234375,
+        "y" : 1672.5438820358502
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3030",
+        "shared_name" : "Automation",
+        "name" : "Automation",
+        "LabelGraphics" : "[]",
+        "SUID" : 3030,
+        "label" : "Automation",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4617.6865234375,
+        "y" : 1552.4212546905667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3027",
+        "shared_name" : "legal",
+        "name" : "legal",
+        "LabelGraphics" : "[]",
+        "SUID" : 3027,
+        "label" : "legal",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4171.6865234375,
+        "y" : 1254.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3024",
+        "shared_name" : "Ethical",
+        "name" : "Ethical",
+        "LabelGraphics" : "[]",
+        "SUID" : 3024,
+        "label" : "Ethical",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4966.6865234375,
+        "y" : 1254.1367277351417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3021",
+        "shared_name" : "Job Displacement",
+        "name" : "Job Displacement",
+        "LabelGraphics" : "[]",
+        "SUID" : 3021,
+        "label" : "Job Displacement",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4617.6865234375,
+        "y" : 1447.2986273452832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3015",
+        "shared_name" : "Legal and Ethical implications",
+        "name" : "Legal and Ethical implications",
+        "LabelGraphics" : "[]",
+        "SUID" : 3015,
+        "label" : "Legal and Ethical implications",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4966.6865234375,
+        "y" : 1119.136727735142
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "3811",
+        "source" : "3381",
+        "target" : "3384",
+        "shared_name" : "API routing to the cheapest  LLM for the job (For example) OpenRouter, Martian Router, TogetherAI, that all do auto-routing",
+        "shared_interaction" : "For example",
+        "name" : "API routing to the cheapest  LLM for the job (For example) OpenRouter, Martian Router, TogetherAI, that all do auto-routing",
+        "interaction" : "For example",
+        "LabelGraphics" : "[KeyValue [key=text, value=For example], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=70.69140625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3811,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3814",
+        "source" : "3378",
+        "target" : "3387",
+        "shared_name" : "Cost for API calls (mitigated by) Running an LLM on  your own local hardware",
+        "shared_interaction" : "mitigated by",
+        "name" : "Cost for API calls (mitigated by) Running an LLM on  your own local hardware",
+        "interaction" : "mitigated by",
+        "LabelGraphics" : "[KeyValue [key=text, value=mitigated by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=68.69921875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3814,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3808",
+        "source" : "3378",
+        "target" : "3381",
+        "shared_name" : "Cost for API calls (mitigated by) API routing to the cheapest  LLM for the job",
+        "shared_interaction" : "mitigated by",
+        "name" : "Cost for API calls (mitigated by) API routing to the cheapest  LLM for the job",
+        "interaction" : "mitigated by",
+        "LabelGraphics" : "[KeyValue [key=text, value=mitigated by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=68.69921875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3808,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3802",
+        "source" : "3372",
+        "target" : "3375",
+        "shared_name" : "Chain-of-thought prompting (and) PS+ theory",
+        "shared_interaction" : "and",
+        "name" : "Chain-of-thought prompting (and) PS+ theory",
+        "interaction" : "and",
+        "LabelGraphics" : "[KeyValue [key=text, value=and], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=24.021484375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1812.1502196146546], KeyValue [key=y, value=1507.634355080425]]",
+        "SUID" : 3802,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3799",
+        "source" : "3363",
+        "target" : "3369",
+        "shared_name" : "Wearable LLM powered smart devices that learn actions  you perform on your computer have already come to market. (Example) Rabbit R1 - https://www.rabbit.tech Humane AI pin - https://www.youtube.com/watch?v=NyPxwp3SxdU",
+        "shared_interaction" : "Example",
+        "name" : "Wearable LLM powered smart devices that learn actions  you perform on your computer have already come to market. (Example) Rabbit R1 - https://www.rabbit.tech Humane AI pin - https://www.youtube.com/watch?v=NyPxwp3SxdU",
+        "interaction" : "Example",
+        "LabelGraphics" : "[KeyValue [key=text, value=Example], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=50.6875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3799,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3793",
+        "source" : "3360",
+        "target" : "3363",
+        "shared_name" : "a mouse, a keyboard, a screen, and the ability to use a computer  no longer needed. This is like &quot;self-driving&quot; cars,  but for your whole computer. All you would need to do is  talk to it in natural language, with a microphone (which makes) Wearable LLM powered smart devices that learn actions  you perform on your computer have already come to market.",
+        "shared_interaction" : "which makes",
+        "name" : "a mouse, a keyboard, a screen, and the ability to use a computer  no longer needed. This is like &quot;self-driving&quot; cars,  but for your whole computer. All you would need to do is  talk to it in natural language, with a microphone (which makes) Wearable LLM powered smart devices that learn actions  you perform on your computer have already come to market.",
+        "interaction" : "which makes",
+        "LabelGraphics" : "[KeyValue [key=text, value=which makes], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=73.357421875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3793,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3790",
+        "source" : "3357",
+        "target" : "3360",
+        "shared_name" : "Mimic a human, and perform human-level , digital actions. (which makes) a mouse, a keyboard, a screen, and the ability to use a computer  no longer needed. This is like &quot;self-driving&quot; cars,  but for your whole computer. All you would need to do is  talk to it in natural language, with a microphone",
+        "shared_interaction" : "which makes",
+        "name" : "Mimic a human, and perform human-level , digital actions. (which makes) a mouse, a keyboard, a screen, and the ability to use a computer  no longer needed. This is like &quot;self-driving&quot; cars,  but for your whole computer. All you would need to do is  talk to it in natural language, with a microphone",
+        "interaction" : "which makes",
+        "LabelGraphics" : "[KeyValue [key=text, value=which makes], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=73.357421875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3790,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3784",
+        "source" : "3351",
+        "target" : "3354",
+        "shared_name" : "Ordering food online, booking a flight, calling a taxi,  updating a social media status, turning on and off smart lights, sending money online,  sending messages to friends through any messaging apps,  booking appointments of any kind. (Coupled with agenthood and multi-agent systems) It would theoretically be possible to ask it to plan a big wedding,  compose full and complete personalised apps, books, tv shows, movies,  perform professional level analyses' and  produce publication-ready research papers",
+        "shared_interaction" : "Coupled with agenthood and multi-agent systems",
+        "name" : "Ordering food online, booking a flight, calling a taxi,  updating a social media status, turning on and off smart lights, sending money online,  sending messages to friends through any messaging apps,  booking appointments of any kind. (Coupled with agenthood and multi-agent systems) It would theoretically be possible to ask it to plan a big wedding,  compose full and complete personalised apps, books, tv shows, movies,  perform professional level analyses' and  produce publication-ready research papers",
+        "interaction" : "Coupled with agenthood and multi-agent systems",
+        "LabelGraphics" : "[KeyValue [key=text, value=Coupled with agenthood and multi-agent systems], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=266.822265625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1074.7770217911316], KeyValue [key=y, value=3071.7729392625743]]",
+        "SUID" : 3784,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3769",
+        "source" : "3339",
+        "target" : "3342",
+        "shared_name" : "RAG / Retrieval  Augmented Generation (which is) using a specific, user given data source  (text, video, table, etc) from  which to look for and retrieve the answers from",
+        "shared_interaction" : "which is",
+        "name" : "RAG / Retrieval  Augmented Generation (which is) using a specific, user given data source  (text, video, table, etc) from  which to look for and retrieve the answers from",
+        "interaction" : "which is",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-1.0000000000000024]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=which is], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=46.6796875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3303.6865234375], KeyValue [key=y, value=2832.7916974748086]]",
+        "SUID" : 3769,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3766",
+        "source" : "3339",
+        "target" : "3165",
+        "shared_name" : "RAG / Retrieval  Augmented Generation (which is an example of ) Tool use",
+        "shared_interaction" : "which is an example of ",
+        "name" : "RAG / Retrieval  Augmented Generation (which is an example of ) Tool use",
+        "interaction" : "which is an example of ",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.20786814323700173], KeyValue [key=ySource, value=-0.9999999999999991], KeyValue [key=yTarget, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=which is an example of ], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=128.728515625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=2883.74609375], KeyValue [key=y, value=2658.435555860142]]",
+        "SUID" : 3766,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3760",
+        "source" : "3333",
+        "target" : "3336",
+        "shared_name" : "An API is a system that allows two independant  apps to communicate between eachother (Example) Your &quot;Microsoft calendar&quot; app talking to your  &quot;Google calendar&quot; app, to stay in sync",
+        "shared_interaction" : "Example",
+        "name" : "An API is a system that allows two independant  apps to communicate between eachother (Example) Your &quot;Microsoft calendar&quot; app talking to your  &quot;Google calendar&quot; app, to stay in sync",
+        "interaction" : "Example",
+        "LabelGraphics" : "[KeyValue [key=text, value=Example], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=50.6875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1362.5960250838684], KeyValue [key=y, value=2924.2986925865594]]",
+        "SUID" : 3760,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3781",
+        "source" : "3330",
+        "target" : "3351",
+        "shared_name" : "perform thousands of API actions (For example) Ordering food online, booking a flight, calling a taxi,  updating a social media status, turning on and off smart lights, sending money online,  sending messages to friends through any messaging apps,  booking appointments of any kind.",
+        "shared_interaction" : "For example",
+        "name" : "perform thousands of API actions (For example) Ordering food online, booking a flight, calling a taxi,  updating a social media status, turning on and off smart lights, sending money online,  sending messages to friends through any messaging apps,  booking appointments of any kind.",
+        "interaction" : "For example",
+        "LabelGraphics" : "[KeyValue [key=text, value=For example], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=70.69140625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1074.7770217911316], KeyValue [key=y, value=2941.1248644615594]]",
+        "SUID" : 3781,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3757",
+        "source" : "3327",
+        "target" : "3333",
+        "shared_name" : "generate API code (is) An API is a system that allows two independant  apps to communicate between eachother",
+        "shared_interaction" : "is",
+        "name" : "generate API code (is) An API is a system that allows two independant  apps to communicate between eachother",
+        "interaction" : "is",
+        "LabelGraphics" : "[KeyValue [key=text, value=is], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=12.666015625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1346.9300094588684], KeyValue [key=y, value=2824.127237116276]]",
+        "SUID" : 3757,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3754",
+        "source" : "3327",
+        "target" : "3330",
+        "shared_name" : "generate API code (which allows ) perform thousands of API actions",
+        "shared_interaction" : "which allows ",
+        "name" : "generate API code (which allows ) perform thousands of API actions",
+        "interaction" : "which allows ",
+        "LabelGraphics" : "[KeyValue [key=text, value=which allows ], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=74.693359375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=996.0836624161316], KeyValue [key=y, value=2829.564737116276]]",
+        "SUID" : 3754,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3751",
+        "source" : "3324",
+        "target" : "3327",
+        "shared_name" : "interfaces with an external  database of API documentation (to) generate API code",
+        "shared_interaction" : "to",
+        "name" : "interfaces with an external  database of API documentation (to) generate API code",
+        "interaction" : "to",
+        "LabelGraphics" : "[KeyValue [key=text, value=to], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=14.0078125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3751,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3748",
+        "source" : "3321",
+        "target" : "3324",
+        "shared_name" : "Write structured code (Which) interfaces with an external  database of API documentation",
+        "shared_interaction" : "Which",
+        "name" : "Write structured code (Which) interfaces with an external  database of API documentation",
+        "interaction" : "Which",
+        "LabelGraphics" : "[KeyValue [key=text, value=Which], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=37.33984375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3748,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3745",
+        "source" : "3315",
+        "target" : "3321",
+        "shared_name" : "Gorilla LLM,  from stanford research (Trained to) Write structured code",
+        "shared_interaction" : "Trained to",
+        "name" : "Gorilla LLM,  from stanford research (Trained to) Write structured code",
+        "interaction" : "Trained to",
+        "LabelGraphics" : "[KeyValue [key=text, value=Trained to], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=58.029296875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3745,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3736",
+        "source" : "3312",
+        "target" : "3150",
+        "shared_name" : "hallucinations (mitigated by) Thinking  step by step",
+        "shared_interaction" : "mitigated by",
+        "name" : "hallucinations (mitigated by) Thinking  step by step",
+        "interaction" : "mitigated by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=0.41573628647400346], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=mitigated by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=68.69921875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3736,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3730",
+        "source" : "3309",
+        "target" : "3150",
+        "shared_name" : "Reliability and  consistancy (enhansed by) Thinking  step by step",
+        "shared_interaction" : "enhansed by",
+        "name" : "Reliability and  consistancy (enhansed by) Thinking  step by step",
+        "interaction" : "enhansed by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=0.6236044297110053], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=enhansed by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=72.724609375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3730,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3763",
+        "source" : "3306",
+        "target" : "3339",
+        "shared_name" : "Factual accuracy (Improved by) RAG / Retrieval  Augmented Generation",
+        "shared_interaction" : "Improved by",
+        "name" : "Factual accuracy (Improved by) RAG / Retrieval  Augmented Generation",
+        "interaction" : "Improved by",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.27777038950022737], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=Improved by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=70.029296875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1563.6865234375], KeyValue [key=y, value=1609.435555860142]]",
+        "SUID" : 3763,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3724",
+        "source" : "3306",
+        "target" : "3150",
+        "shared_name" : "Factual accuracy (enhansed by) Thinking  step by step",
+        "shared_interaction" : "enhansed by",
+        "name" : "Factual accuracy (enhansed by) Thinking  step by step",
+        "interaction" : "enhansed by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.20786814323700173], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=enhansed by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=72.724609375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3724,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3666",
+        "source" : "3252",
+        "target" : "3255",
+        "shared_name" : "Programming (interacts with) Devin, Open Devin and Devika",
+        "shared_interaction" : "interacts with",
+        "name" : "Programming (interacts with) Devin, Open Devin and Devika",
+        "interaction" : "interacts with",
+        "SUID" : 3666,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3697",
+        "source" : "3237",
+        "target" : "3294",
+        "shared_name" : "LLM augmented Robotics (with) Figure One",
+        "shared_interaction" : "with",
+        "name" : "LLM augmented Robotics (with) Figure One",
+        "interaction" : "with",
+        "LabelGraphics" : "[KeyValue [key=text, value=with], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=25.33984375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3697,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3694",
+        "source" : "3237",
+        "target" : "3291",
+        "shared_name" : "LLM augmented Robotics (such as) Mobile Aloha",
+        "shared_interaction" : "such as",
+        "name" : "LLM augmented Robotics (such as) Mobile Aloha",
+        "interaction" : "such as",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3694,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3691",
+        "source" : "3237",
+        "target" : "3288",
+        "shared_name" : "LLM augmented Robotics (by) Tesla",
+        "shared_interaction" : "by",
+        "name" : "LLM augmented Robotics (by) Tesla",
+        "interaction" : "by",
+        "LabelGraphics" : "[KeyValue [key=text, value=by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=16.673828125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3691,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3688",
+        "source" : "3237",
+        "target" : "3285",
+        "shared_name" : "LLM augmented Robotics (by) Boston Dynamics",
+        "shared_interaction" : "by",
+        "name" : "LLM augmented Robotics (by) Boston Dynamics",
+        "interaction" : "by",
+        "LabelGraphics" : "[KeyValue [key=text, value=by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=16.673828125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3688,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3663",
+        "source" : "3234",
+        "target" : "3252",
+        "shared_name" : "Applications and  use cases (in) Programming",
+        "shared_interaction" : "in",
+        "name" : "Applications and  use cases (in) Programming",
+        "interaction" : "in",
+        "LabelGraphics" : "[KeyValue [key=text, value=in], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=13.33984375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3663,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3660",
+        "source" : "3234",
+        "target" : "3249",
+        "shared_name" : "Applications and  use cases (in) Education",
+        "shared_interaction" : "in",
+        "name" : "Applications and  use cases (in) Education",
+        "interaction" : "in",
+        "LabelGraphics" : "[KeyValue [key=text, value=in], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=13.33984375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3660,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3657",
+        "source" : "3234",
+        "target" : "3246",
+        "shared_name" : "Applications and  use cases (in) Scientific research",
+        "shared_interaction" : "in",
+        "name" : "Applications and  use cases (in) Scientific research",
+        "interaction" : "in",
+        "LabelGraphics" : "[KeyValue [key=text, value=in], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=13.33984375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3657,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3654",
+        "source" : "3234",
+        "target" : "3243",
+        "shared_name" : "Applications and  use cases (in) Healthcare",
+        "shared_interaction" : "in",
+        "name" : "Applications and  use cases (in) Healthcare",
+        "interaction" : "in",
+        "LabelGraphics" : "[KeyValue [key=text, value=in], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=13.33984375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4486.730928506859], KeyValue [key=y, value=952.3580943262264]]",
+        "SUID" : 3654,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3651",
+        "source" : "3234",
+        "target" : "3240",
+        "shared_name" : "Applications and  use cases (as) virtual analysts",
+        "shared_interaction" : "as",
+        "name" : "Applications and  use cases (as) virtual analysts",
+        "interaction" : "as",
+        "LabelGraphics" : "[KeyValue [key=text, value=as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=16.673828125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4632.730928506859], KeyValue [key=y, value=952.3580943262264]]",
+        "SUID" : 3651,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3648",
+        "source" : "3234",
+        "target" : "3237",
+        "shared_name" : "Applications and  use cases (such as) LLM augmented Robotics",
+        "shared_interaction" : "such as",
+        "name" : "Applications and  use cases (such as) LLM augmented Robotics",
+        "interaction" : "such as",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3648,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3645",
+        "source" : "3210",
+        "target" : "3231",
+        "shared_name" : "Local and OpenSource LLMs (what are the) Economic implications of  OpenSource and local LLMs",
+        "shared_interaction" : "what are the",
+        "name" : "Local and OpenSource LLMs (what are the) Economic implications of  OpenSource and local LLMs",
+        "interaction" : "what are the",
+        "LabelGraphics" : "[KeyValue [key=text, value=what are the], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=70.041015625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3645,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3627",
+        "source" : "3207",
+        "target" : "3213",
+        "shared_name" : "LLM as a service (such as) ChatGPT",
+        "shared_interaction" : "such as",
+        "name" : "LLM as a service (such as) ChatGPT",
+        "interaction" : "such as",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3627,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3630",
+        "source" : "3204",
+        "target" : "3216",
+        "shared_name" : "important (comparing) LLMs vs Expert Systems and future potential",
+        "shared_interaction" : "comparing",
+        "name" : "important (comparing) LLMs vs Expert Systems and future potential",
+        "interaction" : "comparing",
+        "LabelGraphics" : "[KeyValue [key=text, value=comparing], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=60.02734375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3630,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3680",
+        "source" : "3201",
+        "target" : "3276",
+        "shared_name" : "main players (interacts with) Nvidia /  GPU manufacturor",
+        "shared_interaction" : "interacts with",
+        "name" : "main players (interacts with) Nvidia /  GPU manufacturor",
+        "interaction" : "interacts with",
+        "SUID" : 3680,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3678",
+        "source" : "3201",
+        "target" : "3273",
+        "shared_name" : "main players (interacts with) Google - Gemini",
+        "shared_interaction" : "interacts with",
+        "name" : "main players (interacts with) Google - Gemini",
+        "interaction" : "interacts with",
+        "SUID" : 3678,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3676",
+        "source" : "3201",
+        "target" : "3270",
+        "shared_name" : "main players (interacts with) Facebook - LLama",
+        "shared_interaction" : "interacts with",
+        "name" : "main players (interacts with) Facebook - LLama",
+        "interaction" : "interacts with",
+        "SUID" : 3676,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3674",
+        "source" : "3201",
+        "target" : "3267",
+        "shared_name" : "main players (interacts with) Mistral",
+        "shared_interaction" : "interacts with",
+        "name" : "main players (interacts with) Mistral",
+        "interaction" : "interacts with",
+        "SUID" : 3674,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3672",
+        "source" : "3201",
+        "target" : "3264",
+        "shared_name" : "main players (interacts with) Anthropic - Claude",
+        "shared_interaction" : "interacts with",
+        "name" : "main players (interacts with) Anthropic - Claude",
+        "interaction" : "interacts with",
+        "SUID" : 3672,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3670",
+        "source" : "3201",
+        "target" : "3261",
+        "shared_name" : "main players (interacts with) Cohere - Command",
+        "shared_interaction" : "interacts with",
+        "name" : "main players (interacts with) Cohere - Command",
+        "interaction" : "interacts with",
+        "SUID" : 3670,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3668",
+        "source" : "3201",
+        "target" : "3258",
+        "shared_name" : "main players (interacts with) OpenAI/Microsoft - GPT",
+        "shared_interaction" : "interacts with",
+        "name" : "main players (interacts with) OpenAI/Microsoft - GPT",
+        "interaction" : "interacts with",
+        "SUID" : 3668,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3642",
+        "source" : "3195",
+        "target" : "3228",
+        "shared_name" : "work (what is) Training",
+        "shared_interaction" : "what is",
+        "name" : "work (what is) Training",
+        "interaction" : "what is",
+        "LabelGraphics" : "[KeyValue [key=text, value=what is], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=41.34765625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3642,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3639",
+        "source" : "3195",
+        "target" : "3225",
+        "shared_name" : "work (what are) Neural networks",
+        "shared_interaction" : "what are",
+        "name" : "work (what are) Neural networks",
+        "interaction" : "what are",
+        "LabelGraphics" : "[KeyValue [key=text, value=what are], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=50.025390625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3639,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3636",
+        "source" : "3195",
+        "target" : "3222",
+        "shared_name" : "work (what are) Weights and biases",
+        "shared_interaction" : "what are",
+        "name" : "work (what are) Weights and biases",
+        "interaction" : "what are",
+        "LabelGraphics" : "[KeyValue [key=text, value=what are], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=50.025390625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3636,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3633",
+        "source" : "3195",
+        "target" : "3219",
+        "shared_name" : "work (difference between) LLMs vs ML",
+        "shared_interaction" : "difference between",
+        "name" : "work (difference between) LLMs vs ML",
+        "interaction" : "difference between",
+        "LabelGraphics" : "[KeyValue [key=text, value=difference between], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=105.40234375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3633,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3624",
+        "source" : "3192",
+        "target" : "3210",
+        "shared_name" : "type exists (such as) Local and OpenSource LLMs",
+        "shared_interaction" : "such as",
+        "name" : "type exists (such as) Local and OpenSource LLMs",
+        "interaction" : "such as",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3624,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3621",
+        "source" : "3192",
+        "target" : "3207",
+        "shared_name" : "type exists (such as) LLM as a service",
+        "shared_interaction" : "such as",
+        "name" : "type exists (such as) LLM as a service",
+        "interaction" : "such as",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3621,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3618",
+        "source" : "3189",
+        "target" : "3204",
+        "shared_name" : "Large Language models (why are they) important",
+        "shared_interaction" : "why are they",
+        "name" : "Large Language models (why are they) important",
+        "interaction" : "why are they",
+        "LabelGraphics" : "[KeyValue [key=text, value=why are they], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=72.033203125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4569.6625526539465], KeyValue [key=y, value=449.6006888904203]]",
+        "SUID" : 3618,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3615",
+        "source" : "3189",
+        "target" : "3201",
+        "shared_name" : "Large Language models (Who are the) main players",
+        "shared_interaction" : "Who are the",
+        "name" : "Large Language models (Who are the) main players",
+        "interaction" : "Who are the",
+        "LabelGraphics" : "[KeyValue [key=text, value=Who are the], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=69.3671875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3516.742630778946], KeyValue [key=y, value=449.60068889042077]]",
+        "SUID" : 3615,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3612",
+        "source" : "3189",
+        "target" : "3198",
+        "shared_name" : "Large Language models (when did) LLM technology &quot;start&quot;",
+        "shared_interaction" : "when did",
+        "name" : "Large Language models (when did) LLM technology &quot;start&quot;",
+        "interaction" : "when did",
+        "LabelGraphics" : "[KeyValue [key=text, value=when did], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=52.03515625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4731.65922300378], KeyValue [key=y, value=449.6006888904203]]",
+        "SUID" : 3612,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3609",
+        "source" : "3189",
+        "target" : "3195",
+        "shared_name" : "Large Language models (How do they) work",
+        "shared_interaction" : "How do they",
+        "name" : "Large Language models (How do they) work",
+        "interaction" : "How do they",
+        "LabelGraphics" : "[KeyValue [key=text, value=How do they], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=70.703125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3609,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3606",
+        "source" : "3189",
+        "target" : "3192",
+        "shared_name" : "Large Language models (What) type exists",
+        "shared_interaction" : "What",
+        "name" : "Large Language models (What) type exists",
+        "interaction" : "What",
+        "LabelGraphics" : "[KeyValue [key=text, value=What], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=32.0078125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3847.742630778946], KeyValue [key=y, value=449.6006888904203]]",
+        "SUID" : 3606,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3718",
+        "source" : "3186",
+        "target" : "3114",
+        "shared_name" : "The current state  of LLM technology :  an in-depth review (looking at) llm limitations and mitigation strategies",
+        "shared_interaction" : "looking at",
+        "name" : "The current state  of LLM technology :  an in-depth review (looking at) llm limitations and mitigation strategies",
+        "interaction" : "looking at",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.06275845877816644], KeyValue [key=ySource, value=1.000000000000001], KeyValue [key=yTarget, value=-1.000000000000002]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=looking at], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=55.369140625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3718,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3715",
+        "source" : "3186",
+        "target" : "3015",
+        "shared_name" : "The current state  of LLM technology :  an in-depth review (Understanding) Legal and Ethical implications",
+        "shared_interaction" : "Understanding",
+        "name" : "The current state  of LLM technology :  an in-depth review (Understanding) Legal and Ethical implications",
+        "interaction" : "Understanding",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.06275845877816644], KeyValue [key=ySource, value=1.000000000000001], KeyValue [key=yTarget, value=-1.0000000000000067]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=Understanding], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=82.052734375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3836.51806640625], KeyValue [key=y, value=273.4355558601419]]",
+        "SUID" : 3715,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3712",
+        "source" : "3186",
+        "target" : "3234",
+        "shared_name" : "The current state  of LLM technology :  an in-depth review (seeing current) Applications and  use cases",
+        "shared_interaction" : "seeing current",
+        "name" : "The current state  of LLM technology :  an in-depth review (seeing current) Applications and  use cases",
+        "interaction" : "seeing current",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.000000000000001]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=seeing current], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.04296875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3712,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3709",
+        "source" : "3186",
+        "target" : "3189",
+        "shared_name" : "The current state  of LLM technology :  an in-depth review (understanding) Large Language models",
+        "shared_interaction" : "understanding",
+        "name" : "The current state  of LLM technology :  an in-depth review (understanding) Large Language models",
+        "interaction" : "understanding",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.000000000000001]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=understanding], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.060546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3709,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3787",
+        "source" : "3180",
+        "target" : "3357",
+        "shared_name" : "Using a computer,  through a command  line interface (It can) Mimic a human, and perform human-level , digital actions.",
+        "shared_interaction" : "It can",
+        "name" : "Using a computer,  through a command  line interface (It can) Mimic a human, and perform human-level , digital actions.",
+        "interaction" : "It can",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=It can], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=33.349609375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3787,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3739",
+        "source" : "3177",
+        "target" : "3315",
+        "shared_name" : "Automated API calls (For example) Gorilla LLM,  from stanford research",
+        "shared_interaction" : "For example",
+        "name" : "Automated API calls (For example) Gorilla LLM,  from stanford research",
+        "interaction" : "For example",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=For example], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=70.69140625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3739,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3600",
+        "source" : "3177",
+        "target" : "3180",
+        "shared_name" : "Automated API calls (ran through) Using a computer,  through a command  line interface",
+        "shared_interaction" : "ran through",
+        "name" : "Automated API calls (ran through) Using a computer,  through a command  line interface",
+        "interaction" : "ran through",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=xTarget, value=0.16847060531449443], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=ran through], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=65.376953125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=913.998046875], KeyValue [key=y, value=2343.435555860142]]",
+        "SUID" : 3600,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3742",
+        "source" : "3174",
+        "target" : "3318",
+        "shared_name" : "Multi-agent conversation,  in parallel, in series,  or both (For example) Microsoft Autogen Studio,  CrewAI,  Langchain",
+        "shared_interaction" : "For example",
+        "name" : "Multi-agent conversation,  in parallel, in series,  or both (For example) Microsoft Autogen Studio,  CrewAI,  Langchain",
+        "interaction" : "For example",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=For example], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=70.69140625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1878.6865234375], KeyValue [key=y, value=2062.286141797642]]",
+        "SUID" : 3742,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3591",
+        "source" : "3174",
+        "target" : "3165",
+        "shared_name" : "Multi-agent conversation,  in parallel, in series,  or both (interacts with) Tool use",
+        "shared_interaction" : "interacts with",
+        "name" : "Multi-agent conversation,  in parallel, in series,  or both (interacts with) Tool use",
+        "interaction" : "interacts with",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.16847060531449443], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=xTarget, value=0.22900261189489063], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "SUID" : 3591,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3682",
+        "source" : "3171",
+        "target" : "3279",
+        "shared_name" : "Output quality  and performance (Speed and performance boost by) Groq LPU / Purpose  built LLM processing units",
+        "shared_interaction" : "Speed and performance boost by",
+        "name" : "Output quality  and performance (Speed and performance boost by) Groq LPU / Purpose  built LLM processing units",
+        "interaction" : "Speed and performance boost by",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.18035760659973726], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=Speed and performance boost by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=181.451171875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3682,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3585",
+        "source" : "3171",
+        "target" : "3162",
+        "shared_name" : "Output quality  and performance (through) Web research ability",
+        "shared_interaction" : "through",
+        "name" : "Output quality  and performance (through) Web research ability",
+        "interaction" : "through",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.3607152131994745], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=through], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=44.69921875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=2013.6865234375], KeyValue [key=y, value=2174.085898008043]]",
+        "SUID" : 3585,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3582",
+        "source" : "3171",
+        "target" : "3147",
+        "shared_name" : "Output quality  and performance (augmented by) Agenthood",
+        "shared_interaction" : "augmented by",
+        "name" : "Output quality  and performance (augmented by) Agenthood",
+        "interaction" : "augmented by",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.18035760659973726], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.22900261189489063], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=augmented by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.0546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1507.9214564732142], KeyValue [key=y, value=1713.435555860142]]",
+        "SUID" : 3582,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3579",
+        "source" : "3171",
+        "target" : "3141",
+        "shared_name" : "Output quality  and performance (improved by) Fine tuning",
+        "shared_interaction" : "improved by",
+        "name" : "Output quality  and performance (improved by) Fine tuning",
+        "interaction" : "improved by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-1.0000000000000009]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=improved by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=69.361328125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3663.6865234375], KeyValue [key=y, value=3304.0199154788033]]",
+        "SUID" : 3579,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3576",
+        "source" : "3171",
+        "target" : "3168",
+        "shared_name" : "Output quality  and performance (increased by increasing) contexte size, by increasing  model size and compute",
+        "shared_interaction" : "increased by increasing",
+        "name" : "Output quality  and performance (increased by increasing) contexte size, by increasing  model size and compute",
+        "interaction" : "increased by increasing",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.3607152131994745], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.13332254052392753], KeyValue [key=yTarget, value=-1.0000000000000009]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=increased by increasing], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=130.0703125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=null], KeyValue [key=position, value=null]]",
+        "SUID" : 3576,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3573",
+        "source" : "3171",
+        "target" : "3150",
+        "shared_name" : "Output quality  and performance (improved by) Thinking  step by step",
+        "shared_interaction" : "improved by",
+        "name" : "Output quality  and performance (improved by) Thinking  step by step",
+        "interaction" : "improved by",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.5410728197992117], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.8314725729480069], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=improved by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=69.361328125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3573,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3597",
+        "source" : "3165",
+        "target" : "3180",
+        "shared_name" : "Tool use (using) Using a computer,  through a command  line interface",
+        "shared_interaction" : "using",
+        "name" : "Tool use (using) Using a computer,  through a command  line interface",
+        "interaction" : "using",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.45800522378978126], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=using], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=32.6875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=987.8115234375], KeyValue [key=y, value=2186.136727735142]]",
+        "SUID" : 3597,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3594",
+        "source" : "3165",
+        "target" : "3177",
+        "shared_name" : "Tool use (generating) Automated API calls",
+        "shared_interaction" : "generating",
+        "name" : "Tool use (generating) Automated API calls",
+        "interaction" : "generating",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900261189489063], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=generating], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=60.712890625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1384.40185546875], KeyValue [key=y, value=2216.136727735142]]",
+        "SUID" : 3594,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3564",
+        "source" : "3165",
+        "target" : "3153",
+        "shared_name" : "Tool use (giving) Database in vector format,  as a memory bank",
+        "shared_interaction" : "giving",
+        "name" : "Tool use (giving) Database in vector format,  as a memory bank",
+        "interaction" : "giving",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.45800522378978126], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=xTarget, value=-0.16847060531449443], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=giving], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=35.353515625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=2367.20068359375], KeyValue [key=y, value=2193.435555860142]]",
+        "SUID" : 3564,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3555",
+        "source" : "3165",
+        "target" : "3162",
+        "shared_name" : "Tool use () Web research ability",
+        "shared_interaction" : "",
+        "name" : "Tool use () Web research ability",
+        "interaction" : "",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.22900261189489063], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=xTarget, value=-0.19974730307272404], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[]",
+        "SUID" : 3555,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3778",
+        "source" : "3162",
+        "target" : "3348",
+        "shared_name" : "Web research ability (augmented by) Running a Google, Bing, wikipedia  or any other form of Search, and using  the search results in an answer",
+        "shared_interaction" : "augmented by",
+        "name" : "Web research ability (augmented by) Running a Google, Bing, wikipedia  or any other form of Search, and using  the search results in an answer",
+        "interaction" : "augmented by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=augmented by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.0546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=2013.6865234375], KeyValue [key=y, value=2527.286141797642]]",
+        "SUID" : 3778,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3549",
+        "source" : "3159",
+        "target" : "3150",
+        "shared_name" : "Complexe and/or   deeply technical content (augmented by) Thinking  step by step",
+        "shared_interaction" : "augmented by",
+        "name" : "Complexe and/or   deeply technical content (augmented by) Thinking  step by step",
+        "interaction" : "augmented by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=0.20786814323700173], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=augmented by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.0546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3549,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3543",
+        "source" : "3156",
+        "target" : "3153",
+        "shared_name" : "Summerizing conversation in real time,  acting as short term memory (interacts with) Database in vector format,  as a memory bank",
+        "shared_interaction" : "interacts with",
+        "name" : "Summerizing conversation in real time,  acting as short term memory (interacts with) Database in vector format,  as a memory bank",
+        "interaction" : "interacts with",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=xTarget, value=0.16847060531449443], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "SUID" : 3543,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3796",
+        "source" : "3150",
+        "target" : "3366",
+        "shared_name" : "Thinking  step by step (Trying to replicate) system 2 thinking",
+        "shared_interaction" : "Trying to replicate",
+        "name" : "Thinking  step by step (Trying to replicate) system 2 thinking",
+        "interaction" : "Trying to replicate",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=Trying to replicate], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=99.373046875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=2005.2228272603452], KeyValue [key=y, value=1402.5117277351414]]",
+        "SUID" : 3796,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3772",
+        "source" : "3150",
+        "target" : "3372",
+        "shared_name" : "Thinking  step by step (For example using) Chain-of-thought prompting",
+        "shared_interaction" : "For example using",
+        "name" : "Thinking  step by step (For example using) Chain-of-thought prompting",
+        "interaction" : "For example using",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=For example using], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=102.712890625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1807.0619262135774], KeyValue [key=y, value=1390.636727735142]]",
+        "SUID" : 3772,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3534",
+        "source" : "3150",
+        "target" : "3147",
+        "shared_name" : "Thinking  step by step (ultimately leading to) Agenthood",
+        "shared_interaction" : "ultimately leading to",
+        "name" : "Thinking  step by step (ultimately leading to) Agenthood",
+        "interaction" : "ultimately leading to",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.20786814323700173], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=ultimately leading to], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=110.060546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1683.6865234375], KeyValue [key=y, value=1690.9678630665214]]",
+        "SUID" : 3534,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3775",
+        "source" : "3147",
+        "target" : "3345",
+        "shared_name" : "Agenthood (augmented by) BDI /  Belief - Desire - Intent theory",
+        "shared_interaction" : "augmented by",
+        "name" : "Agenthood (augmented by) BDI /  Belief - Desire - Intent theory",
+        "interaction" : "augmented by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=augmented by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.0546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1683.6865234375], KeyValue [key=y, value=1909.5679849613211]]",
+        "SUID" : 3775,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3588",
+        "source" : "3147",
+        "target" : "3174",
+        "shared_name" : "Agenthood (augmented by) Multi-agent conversation,  in parallel, in series,  or both",
+        "shared_interaction" : "augmented by",
+        "name" : "Agenthood (augmented by) Multi-agent conversation,  in parallel, in series,  or both",
+        "interaction" : "augmented by",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.22900261189489063], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=augmented by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.0546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1746.6591796875], KeyValue [key=y, value=1863.435555860142]]",
+        "SUID" : 3588,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3558",
+        "source" : "3147",
+        "target" : "3165",
+        "shared_name" : "Agenthood (augmented by) Tool use",
+        "shared_interaction" : "augmented by",
+        "name" : "Agenthood (augmented by) Tool use",
+        "interaction" : "augmented by",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900261189489063], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=augmented by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.0546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1551.6591796875], KeyValue [key=y, value=1886.136727735142]]",
+        "SUID" : 3558,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3706",
+        "source" : "3141",
+        "target" : "3303",
+        "shared_name" : "Fine tuning (New method) BTX / Branch Train Mix  &quot;fine tuning&quot; into a MoE",
+        "shared_interaction" : "New method",
+        "name" : "Fine tuning (New method) BTX / Branch Train Mix  &quot;fine tuning&quot; into a MoE",
+        "interaction" : "New method",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=New method], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=71.365234375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3675.5615234375], KeyValue [key=y, value=3498.8962835952834]]",
+        "SUID" : 3706,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3703",
+        "source" : "3141",
+        "target" : "3300",
+        "shared_name" : "Fine tuning (New method) KTO / Kahneman-Tversky  Optimization",
+        "shared_interaction" : "New method",
+        "name" : "Fine tuning (New method) KTO / Kahneman-Tversky  Optimization",
+        "interaction" : "New method",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=New method], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=71.365234375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3675.5615234375], KeyValue [key=y, value=3575.817739065567]]",
+        "SUID" : 3703,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3700",
+        "source" : "3141",
+        "target" : "3297",
+        "shared_name" : "Fine tuning (New method) DPO / Direct preference Optimization",
+        "shared_interaction" : "New method",
+        "name" : "Fine tuning (New method) DPO / Direct preference Optimization",
+        "interaction" : "New method",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=New method], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=71.365234375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3675.5615234375], KeyValue [key=y, value=3652.7391945358504]]",
+        "SUID" : 3700,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3528",
+        "source" : "3138",
+        "target" : "3150",
+        "shared_name" : "creativity and  innovation (overcoming with) Thinking  step by step",
+        "shared_interaction" : "overcoming with",
+        "name" : "creativity and  innovation (overcoming with) Thinking  step by step",
+        "interaction" : "overcoming with",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=overcoming with], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=90.701171875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3528,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3525",
+        "source" : "3135",
+        "target" : "3144",
+        "shared_name" : "bias (reduced by) RLHF / Reinforcement Learning From Human Feedback",
+        "shared_interaction" : "reduced by",
+        "name" : "bias (reduced by) RLHF / Reinforcement Learning From Human Feedback",
+        "interaction" : "reduced by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=reduced by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=63.373046875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=null], KeyValue [key=position, value=null]]",
+        "SUID" : 3525,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3522",
+        "source" : "3135",
+        "target" : "3141",
+        "shared_name" : "bias (reduced by) Fine tuning",
+        "shared_interaction" : "reduced by",
+        "name" : "bias (reduced by) Fine tuning",
+        "interaction" : "reduced by",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900261189489063], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.22900261189489063], KeyValue [key=yTarget, value=-1.0000000000000009]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=reduced by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=63.373046875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=33.6865234375], KeyValue [key=y, value=3334.435555860142]]",
+        "SUID" : 3522,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3603",
+        "source" : "3132",
+        "target" : "3183",
+        "shared_name" : "computation ressources  and energy (electricity) (Mostly ignored due to) expected outcomes and business potential",
+        "shared_interaction" : "Mostly ignored due to",
+        "name" : "computation ressources  and energy (electricity) (Mostly ignored due to) expected outcomes and business potential",
+        "interaction" : "Mostly ignored due to",
+        "LabelGraphics" : "[KeyValue [key=text, value=Mostly ignored due to], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=118.732421875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1519.6886779165382], KeyValue [key=y, value=637.6343550804249]]",
+        "SUID" : 3603,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3561",
+        "source" : "3129",
+        "target" : "3150",
+        "shared_name" : "Reasoning ability (enhansed by) Thinking  step by step",
+        "shared_interaction" : "enhansed by",
+        "name" : "Reasoning ability (enhansed by) Thinking  step by step",
+        "interaction" : "enhansed by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.6236044297110053], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=enhansed by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=72.724609375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3561,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3540",
+        "source" : "3126",
+        "target" : "3153",
+        "shared_name" : "Long term memory (by using a) Database in vector format,  as a memory bank",
+        "shared_interaction" : "by using a",
+        "name" : "Long term memory (by using a) Database in vector format,  as a memory bank",
+        "interaction" : "by using a",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=by using a], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=58.703125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=2463.6865234375], KeyValue [key=y, value=2182.286141797642]]",
+        "SUID" : 3540,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3552",
+        "source" : "3123",
+        "target" : "3162",
+        "shared_name" : "up-to-date data (augmented by) Web research ability",
+        "shared_interaction" : "augmented by",
+        "name" : "up-to-date data (augmented by) Web research ability",
+        "interaction" : "augmented by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=xTarget, value=0.19974730307272404], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=augmented by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=80.0546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3552,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3531",
+        "source" : "3120",
+        "target" : "3150",
+        "shared_name" : "Explainabiliy (through) Thinking  step by step",
+        "shared_interaction" : "through",
+        "name" : "Explainabiliy (through) Thinking  step by step",
+        "interaction" : "through",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.41573628647400346], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=through], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=44.69921875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3531,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3685",
+        "source" : "3117",
+        "target" : "3282",
+        "shared_name" : "context size (increased by) Ring Attention / Mechanism for  processing near infinite context size",
+        "shared_interaction" : "increased by",
+        "name" : "context size (increased by) Ring Attention / Mechanism for  processing near infinite context size",
+        "interaction" : "increased by",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=increased by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=72.0390625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3003.6865234375], KeyValue [key=y, value=2119.567984961321]]",
+        "SUID" : 3685,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3567",
+        "source" : "3117",
+        "target" : "3168",
+        "shared_name" : "context size (increasing) contexte size, by increasing  model size and compute",
+        "shared_interaction" : "increasing",
+        "name" : "context size (increasing) contexte size, by increasing  model size and compute",
+        "interaction" : "increasing",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.27777038950022737], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-1.0000000000000009]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=increasing], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=58.697265625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=3467.6865234375], KeyValue [key=y, value=3003.5072080470286]]",
+        "SUID" : 3567,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3537",
+        "source" : "3117",
+        "target" : "3156",
+        "shared_name" : "context size (functionally increased by) Summerizing conversation in real time,  acting as short term memory",
+        "shared_interaction" : "functionally increased by",
+        "name" : "context size (functionally increased by) Summerizing conversation in real time,  acting as short term memory",
+        "interaction" : "functionally increased by",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.27777038950022737], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=functionally increased by], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=135.408203125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=2783.982421875], KeyValue [key=y, value=2096.136727735142]]",
+        "SUID" : 3537,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3805",
+        "source" : "3114",
+        "target" : "3378",
+        "shared_name" : "llm limitations and mitigation strategies (requires) Cost for API calls",
+        "shared_interaction" : "requires",
+        "name" : "llm limitations and mitigation strategies (requires) Cost for API calls",
+        "interaction" : "requires",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.5456020827101784], KeyValue [key=ySource, value=1.000000000000002]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=requires], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=47.353515625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3805,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3733",
+        "source" : "3114",
+        "target" : "3312",
+        "shared_name" : "llm limitations and mitigation strategies (likelyhood for detectable or undetectable) hallucinations",
+        "shared_interaction" : "likelyhood for detectable or undetectable",
+        "name" : "llm limitations and mitigation strategies (likelyhood for detectable or undetectable) hallucinations",
+        "interaction" : "likelyhood for detectable or undetectable",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.21824083308407136], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=likelyhood for detectable or undetectable], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=219.478515625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=2031.2080078125], KeyValue [key=y, value=866.1367277351419]]",
+        "SUID" : 3733,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3727",
+        "source" : "3114",
+        "target" : "3309",
+        "shared_name" : "llm limitations and mitigation strategies (unclear) Reliability and  consistancy",
+        "shared_interaction" : "unclear",
+        "name" : "llm limitations and mitigation strategies (unclear) Reliability and  consistancy",
+        "interaction" : "unclear",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.327361249626107], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=unclear], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=43.357421875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3727,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3721",
+        "source" : "3114",
+        "target" : "3306",
+        "shared_name" : "llm limitations and mitigation strategies (no way to force) Factual accuracy",
+        "shared_interaction" : "no way to force",
+        "name" : "llm limitations and mitigation strategies (no way to force) Factual accuracy",
+        "interaction" : "no way to force",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.10912041654203568], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=no way to force], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=85.375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1624.3115234375], KeyValue [key=y, value=984.3498281249999]]",
+        "SUID" : 3721,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3570",
+        "source" : "3114",
+        "target" : "3171",
+        "shared_name" : "llm limitations and mitigation strategies (low) Output quality  and performance",
+        "shared_interaction" : "low",
+        "name" : "llm limitations and mitigation strategies (low) Output quality  and performance",
+        "interaction" : "low",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.4364816661681427], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=low], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=alignment, value=left], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=22.005859375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3570,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3546",
+        "source" : "3114",
+        "target" : "3159",
+        "shared_name" : "llm limitations and mitigation strategies (lack of ability to understand) Complexe and/or   deeply technical content",
+        "shared_interaction" : "lack of ability to understand",
+        "name" : "llm limitations and mitigation strategies (lack of ability to understand) Complexe and/or   deeply technical content",
+        "interaction" : "lack of ability to understand",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.10912041654203568], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=lack of ability to understand], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=149.41796875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1966.2685546875], KeyValue [key=y, value=911.1367277351419]]",
+        "SUID" : 3546,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3519",
+        "source" : "3114",
+        "target" : "3138",
+        "shared_name" : "llm limitations and mitigation strategies (lack of) creativity and  innovation",
+        "shared_interaction" : "lack of",
+        "name" : "llm limitations and mitigation strategies (lack of) creativity and  innovation",
+        "interaction" : "lack of",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=lack of], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=38.681640625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1908.6865234375], KeyValue [key=y, value=954.3498281249999]]",
+        "SUID" : 3519,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3516",
+        "source" : "3114",
+        "target" : "3135",
+        "shared_name" : "llm limitations and mitigation strategies (inherent) bias",
+        "shared_interaction" : "inherent",
+        "name" : "llm limitations and mitigation strategies (inherent) bias",
+        "interaction" : "inherent",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.654722499252214], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=inherent], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=47.365234375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3516,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3513",
+        "source" : "3114",
+        "target" : "3132",
+        "shared_name" : "llm limitations and mitigation strategies (requires) computation ressources  and energy (electricity)",
+        "shared_interaction" : "requires",
+        "name" : "llm limitations and mitigation strategies (requires) computation ressources  and energy (electricity)",
+        "interaction" : "requires",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.5456020827101784], KeyValue [key=ySource, value=1.000000000000002]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=requires], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=47.353515625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3513,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3510",
+        "source" : "3114",
+        "target" : "3129",
+        "shared_name" : "llm limitations and mitigation strategies (unclear) Reasoning ability",
+        "shared_interaction" : "unclear",
+        "name" : "llm limitations and mitigation strategies (unclear) Reasoning ability",
+        "interaction" : "unclear",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.327361249626107], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=unclear], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=43.357421875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1366.3291015625], KeyValue [key=y, value=895.1367277351419]]",
+        "SUID" : 3510,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3507",
+        "source" : "3114",
+        "target" : "3126",
+        "shared_name" : "llm limitations and mitigation strategies (lack of) Long term memory",
+        "shared_interaction" : "lack of",
+        "name" : "llm limitations and mitigation strategies (lack of) Long term memory",
+        "interaction" : "lack of",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.4364816661681427], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=lack of], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=38.681640625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3507,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3504",
+        "source" : "3114",
+        "target" : "3123",
+        "shared_name" : "llm limitations and mitigation strategies (lack of) up-to-date data",
+        "shared_interaction" : "lack of",
+        "name" : "llm limitations and mitigation strategies (lack of) up-to-date data",
+        "interaction" : "lack of",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.654722499252214], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=lack of], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=38.681640625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3504,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3501",
+        "source" : "3114",
+        "target" : "3120",
+        "shared_name" : "llm limitations and mitigation strategies (lack of) Explainabiliy",
+        "shared_interaction" : "lack of",
+        "name" : "llm limitations and mitigation strategies (lack of) Explainabiliy",
+        "interaction" : "lack of",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.21824083308407136], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=lack of], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=38.681640625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=1488.6865234375], KeyValue [key=y, value=995.7965530275354]]",
+        "SUID" : 3501,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3498",
+        "source" : "3114",
+        "target" : "3117",
+        "shared_name" : "llm limitations and mitigation strategies (limited) context size",
+        "shared_interaction" : "limited",
+        "name" : "llm limitations and mitigation strategies (limited) context size",
+        "interaction" : "limited",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.5456020827101784], KeyValue [key=ySource, value=1.000000000000002], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=limited], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=38.67578125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3498,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3465",
+        "source" : "3108",
+        "target" : "3084",
+        "shared_name" : "Unintended use (such as) Unsafe use",
+        "shared_interaction" : "such as",
+        "name" : "Unintended use (such as) Unsafe use",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3465,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3429",
+        "source" : "3108",
+        "target" : "3051",
+        "shared_name" : "Unintended use (such as) Malicious uses",
+        "shared_interaction" : "such as",
+        "name" : "Unintended use (such as) Malicious uses",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3429,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3492",
+        "source" : "3105",
+        "target" : "3087",
+        "shared_name" : "Unintended outcomes (such as) psychological vulnerabilities",
+        "shared_interaction" : "such as",
+        "name" : "Unintended outcomes (such as) psychological vulnerabilities",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=5310.9509765625], KeyValue [key=y, value=1488.435555860142]]",
+        "SUID" : 3492,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3450",
+        "source" : "3105",
+        "target" : "3069",
+        "shared_name" : "Unintended outcomes (such as) Social bias",
+        "shared_interaction" : "such as",
+        "name" : "Unintended outcomes (such as) Social bias",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3450,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3441",
+        "source" : "3105",
+        "target" : "3063",
+        "shared_name" : "Unintended outcomes (such as) Data leaks",
+        "shared_interaction" : "such as",
+        "name" : "Unintended outcomes (such as) Data leaks",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3441,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3432",
+        "source" : "3105",
+        "target" : "3054",
+        "shared_name" : "Unintended outcomes (such as) Human-Computer Interaction Harms ",
+        "shared_interaction" : "such as",
+        "name" : "Unintended outcomes (such as) Human-Computer Interaction Harms ",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3432,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3423",
+        "source" : "3105",
+        "target" : "3045",
+        "shared_name" : "Unintended outcomes (such as) Toxicity",
+        "shared_interaction" : "such as",
+        "name" : "Unintended outcomes (such as) Toxicity",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3423,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3438",
+        "source" : "3090",
+        "target" : "3060",
+        "shared_name" : "Energy consumption (leading to) Environmental harms",
+        "shared_interaction" : "leading to",
+        "name" : "Energy consumption (leading to) Environmental harms",
+        "interaction" : "leading to",
+        "LabelGraphics" : "[KeyValue [key=text, value=leading to], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=56.04296875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3438,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3456",
+        "source" : "3072",
+        "target" : "3075",
+        "shared_name" : "Sterotypes () Exclusion",
+        "shared_interaction" : "",
+        "name" : "Sterotypes () Exclusion",
+        "interaction" : "",
+        "LabelGraphics" : "[]",
+        "SUID" : 3456,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3453",
+        "source" : "3069",
+        "target" : "3072",
+        "shared_name" : "Social bias (including) Sterotypes",
+        "shared_interaction" : "including",
+        "name" : "Social bias (including) Sterotypes",
+        "interaction" : "including",
+        "LabelGraphics" : "[KeyValue [key=text, value=including], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=51.3671875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3453,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3420",
+        "source" : "3069",
+        "target" : "3042",
+        "shared_name" : "Social bias (including) Discrimination",
+        "shared_interaction" : "including",
+        "name" : "Social bias (including) Discrimination",
+        "interaction" : "including",
+        "LabelGraphics" : "[KeyValue [key=text, value=including], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=51.3671875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3420,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3477",
+        "source" : "3066",
+        "target" : "3096",
+        "shared_name" : "Data management (of) Sensitive data",
+        "shared_interaction" : "of",
+        "name" : "Data management (of) Sensitive data",
+        "interaction" : "of",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[]",
+        "SUID" : 3477,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3474",
+        "source" : "3066",
+        "target" : "3093",
+        "shared_name" : "Data management (of) Private data",
+        "shared_interaction" : "of",
+        "name" : "Data management (of) Private data",
+        "interaction" : "of",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[]",
+        "SUID" : 3474,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3468",
+        "source" : "3051",
+        "target" : "3087",
+        "shared_name" : "Malicious uses (including) psychological vulnerabilities",
+        "shared_interaction" : "including",
+        "name" : "Malicious uses (including) psychological vulnerabilities",
+        "interaction" : "including",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=0.9999999999999991], KeyValue [key=xTarget, value=0.162863318283154], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=including], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=51.3671875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3468,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3462",
+        "source" : "3051",
+        "target" : "3081",
+        "shared_name" : "Malicious uses (including) Fraud",
+        "shared_interaction" : "including",
+        "name" : "Malicious uses (including) Fraud",
+        "interaction" : "including",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=including], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=51.3671875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=6069.1240234375], KeyValue [key=y, value=2103.896283595284]]",
+        "SUID" : 3462,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3459",
+        "source" : "3051",
+        "target" : "3078",
+        "shared_name" : "Malicious uses (including) Hate speech",
+        "shared_interaction" : "including",
+        "name" : "Malicious uses (including) Hate speech",
+        "interaction" : "including",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=including], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=51.3671875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=6069.1240234375], KeyValue [key=y, value=2180.8177390655674]]",
+        "SUID" : 3459,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3426",
+        "source" : "3051",
+        "target" : "3048",
+        "shared_name" : "Malicious uses (including) Misinformation",
+        "shared_interaction" : "including",
+        "name" : "Malicious uses (including) Misinformation",
+        "interaction" : "including",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=including], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=51.3671875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=6069.1240234375], KeyValue [key=y, value=2257.739194535851]]",
+        "SUID" : 3426,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3435",
+        "source" : "3030",
+        "target" : "3057",
+        "shared_name" : "Automation (of) Knowledge work",
+        "shared_interaction" : "of",
+        "name" : "Automation (of) Knowledge work",
+        "interaction" : "of",
+        "LabelGraphics" : "[KeyValue [key=text, value=of], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=14.0078125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3435,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3408",
+        "source" : "3030",
+        "target" : "3033",
+        "shared_name" : "Automation (of) Physical work",
+        "shared_interaction" : "of",
+        "name" : "Automation (of) Physical work",
+        "interaction" : "of",
+        "LabelGraphics" : "[KeyValue [key=text, value=of], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=14.0078125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=tail]]",
+        "SUID" : 3408,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3447",
+        "source" : "3027",
+        "target" : "3066",
+        "shared_name" : "legal (such as) Data management",
+        "shared_interaction" : "such as",
+        "name" : "legal (such as) Data management",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.22900763358778625], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4052.6865234375], KeyValue [key=y, value=1809.2206144538918]]",
+        "SUID" : 3447,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3414",
+        "source" : "3027",
+        "target" : "3039",
+        "shared_name" : "legal (such as) privacy violations",
+        "shared_interaction" : "such as",
+        "name" : "legal (such as) privacy violations",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=xTarget, value=-0.22900763358778625], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[]",
+        "SUID" : 3414,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3411",
+        "source" : "3027",
+        "target" : "3036",
+        "shared_name" : "legal (such as) Copyright infrengement",
+        "shared_interaction" : "such as",
+        "name" : "legal (such as) Copyright infrengement",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[]",
+        "SUID" : 3411,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3495",
+        "source" : "3024",
+        "target" : "3111",
+        "shared_name" : "Ethical (dilemmas) Personhood question",
+        "shared_interaction" : "dilemmas",
+        "name" : "Ethical (dilemmas) Personhood question",
+        "interaction" : "dilemmas",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=dilemmas], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=55.345703125], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=null], KeyValue [key=position, value=null]]",
+        "SUID" : 3495,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3489",
+        "source" : "3024",
+        "target" : "3108",
+        "shared_name" : "Ethical (such as) Unintended use",
+        "shared_interaction" : "such as",
+        "name" : "Ethical (such as) Unintended use",
+        "interaction" : "such as",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.4580152671755725], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=such as], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=45.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3489,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3486",
+        "source" : "3024",
+        "target" : "3105",
+        "shared_name" : "Ethical (concerns) Unintended outcomes",
+        "shared_interaction" : "concerns",
+        "name" : "Ethical (concerns) Unintended outcomes",
+        "interaction" : "concerns",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=concerns], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=52.69140625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3486,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3483",
+        "source" : "3024",
+        "target" : "3102",
+        "shared_name" : "Ethical (risks) Security",
+        "shared_interaction" : "risks",
+        "name" : "Ethical (risks) Security",
+        "interaction" : "risks",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=risks], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=28.662109375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4660.0244140625], KeyValue [key=y, value=1724.8796097709924]]",
+        "SUID" : 3483,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3480",
+        "source" : "3024",
+        "target" : "3099",
+        "shared_name" : "Ethical (questions) Economic equality",
+        "shared_interaction" : "questions",
+        "name" : "Ethical (questions) Economic equality",
+        "interaction" : "questions",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=questions], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=55.369140625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=null], KeyValue [key=position, value=null]]",
+        "SUID" : 3480,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3471",
+        "source" : "3024",
+        "target" : "3090",
+        "shared_name" : "Ethical (Potential) Energy consumption",
+        "shared_interaction" : "Potential",
+        "name" : "Ethical (Potential) Energy consumption",
+        "interaction" : "Potential",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=Potential], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=50.69921875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4765.6865234375], KeyValue [key=y, value=1387.5117277351414]]",
+        "SUID" : 3471,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3444",
+        "source" : "3024",
+        "target" : "3066",
+        "shared_name" : "Ethical (related) Data management",
+        "shared_interaction" : "related",
+        "name" : "Ethical (related) Data management",
+        "interaction" : "related",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999991]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=related], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=40.69140625], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=two_pos], KeyValue [key=position, value=head]]",
+        "SUID" : 3444,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3417",
+        "source" : "3024",
+        "target" : "3039",
+        "shared_name" : "Ethical (risks) privacy violations",
+        "shared_interaction" : "risks",
+        "name" : "Ethical (risks) privacy violations",
+        "interaction" : "risks",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.4580152671755725], KeyValue [key=ySource, value=1.0000000000000064], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=risks], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=28.662109375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=null], KeyValue [key=position, value=null]]",
+        "SUID" : 3417,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3390",
+        "source" : "3024",
+        "target" : "3021",
+        "shared_name" : "Ethical (risk) Job Displacement",
+        "shared_interaction" : "risk",
+        "name" : "Ethical (risk) Job Displacement",
+        "interaction" : "risk",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.22900763358778625], KeyValue [key=ySource, value=1.0000000000000064]]",
+        "LabelGraphics" : "[KeyValue [key=text, value=risk], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=22.662109375], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4619.6865234375], KeyValue [key=y, value=1387.5117277351414]]",
+        "SUID" : 3390,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3399",
+        "source" : "3021",
+        "target" : "3030",
+        "shared_name" : "Job Displacement (Due to) Automation",
+        "shared_interaction" : "Due to",
+        "name" : "Job Displacement (Due to) Automation",
+        "interaction" : "Due to",
+        "LabelGraphics" : "[KeyValue [key=text, value=Due to], KeyValue [key=fontSize, value=12], KeyValue [key=fontName, value=Dialog], KeyValue [key=configuration, value=AutoFlippingLabel], KeyValue [key=contentWidth, value=39.35546875], KeyValue [key=contentHeight, value=18.701171875], KeyValue [key=model, value=side_slider], KeyValue [key=x, value=4619.6865234375], KeyValue [key=y, value=1492.634355080425]]",
+        "SUID" : 3399,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3405",
+        "source" : "3015",
+        "target" : "3027",
+        "shared_name" : "Legal and Ethical implications (interacts with) legal",
+        "shared_interaction" : "interacts with",
+        "name" : "Legal and Ethical implications (interacts with) legal",
+        "interaction" : "interacts with",
+        "edgeAnchor" : "[KeyValue [key=xSource, value=-0.1294571686828616], KeyValue [key=ySource, value=0.9999999999999978], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "SUID" : 3405,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3402",
+        "source" : "3015",
+        "target" : "3024",
+        "shared_name" : "Legal and Ethical implications (interacts with) Ethical",
+        "shared_interaction" : "interacts with",
+        "name" : "Legal and Ethical implications (interacts with) Ethical",
+        "interaction" : "interacts with",
+        "edgeAnchor" : "[KeyValue [key=ySource, value=0.9999999999999978], KeyValue [key=yTarget, value=-0.9999999999999918]]",
+        "SUID" : 3402,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
