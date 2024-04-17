@@ -11,20 +11,32 @@ var cy = cytoscape({
     })
     .catch(error => console.error("Error loading CYJS file:", error));  // Error handling
   
-  // Basic styling
-  cy.style([
+ // Enhanced Styling
+cy.style([
     {
       selector: 'node',
       style: {
-        'background-color': '#666', // Dark grey nodes
-        'label': 'data(id)' // Show the node ID as a label
+        'shape': 'round-rectangle', // More modern node shape
+        'background-color': '#3498db', // A pleasant blue color
+        'label': 'data(id)', 
+        'text-valign': 'center',
+        'text-halign': 'center',
+        'font-size': '12px',
+        'color': 'white' // White label text for contrast
       }
     },
     {
       selector: 'edge',
       style: {
         'width': 3,
-        'line-color': '#ccc'  // Light grey edges
+        'line-color': '#95a5a6', // Slightly darker grey
+        'curve-style': 'bezier', // Smooth curves for edges
+        'target-arrow-shape': 'triangle', // Add arrowheads
+        'target-arrow-color': '#95a5a6', 
+        'label': 'data(label)', // Assuming you have 'label' in your edge data
+        'text-margin-y': -10, // Offset labels above the edge line
+        'text-outline-width': 1,   // Add a subtle outline for labels
+        'text-outline-color': '#3498db' // Outline color matching node color
       }
     }
   ]);
