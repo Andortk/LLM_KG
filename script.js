@@ -22,7 +22,8 @@ cy.style([
         'text-valign': 'center',
         'text-halign': 'center',
         'font-size': '12px',
-        'color': 'white' // White label text for contrast
+        'color': 'white', // White label text for contrast
+        'label': 'data(name)' // Use the 'name' property 
       }
     },
     {
@@ -36,7 +37,8 @@ cy.style([
         'label': 'data(label)', // Assuming you have 'label' in your edge data
         'text-margin-y': -10, // Offset labels above the edge line
         'text-outline-width': 1,   // Add a subtle outline for labels
-        'text-outline-color': '#3498db' // Outline color matching node color
+        'text-outline-color': '#3498db', // Outline color matching node color
+        'label': 'data(interaction)'
       }
     }
   ]);
