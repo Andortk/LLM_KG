@@ -53,7 +53,7 @@ function applyStylesAndLayout() {
 
   // Optional: Apply a layout for automatic positioning
   var layout = cy.layout({
-      name: 'breadthfirst'
+      name: 'cose'
   });
   layout.run();
 
