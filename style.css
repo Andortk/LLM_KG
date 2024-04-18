@@ -3,7 +3,7 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: Roboto, sans-serif;
-    background-color: #0cc042ab; /* Slightly grayer background color */
+    background-color: #d1d1d1; /* Slightly grayer background color */
 }
 
 #cy {
