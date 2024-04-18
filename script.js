@@ -51,11 +51,16 @@ function applyStylesAndLayout() {
     }
   ]);
 
+
+  
+  /*
   // Optional: Apply a layout for automatic positioning
   var layout = cy.layout({
       name: 'cose'
   });
   layout.run();
+*/
+
 
   // Setup event listeners after everything is ready
   setupEventListeners();
