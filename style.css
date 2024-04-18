@@ -46,8 +46,12 @@ html {
   }
   
   .node-data {
-    padding: 1.5rem; /* 24px at base font size */
-    font-size: 1rem; /* 16px at base font size */
+    padding-top: 2rem; /* 24px at base font size */
+    padding-bottom: 2rem; /* 24px at base font size */
+    padding-left: 9rem; /* 24px at base font size */
+    padding-right: 9rem; /* 24px at base font size */
+
+    font-size: 2rem; /* 16px at base font size */
     line-height: 1.5;
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
