@@ -19,11 +19,13 @@ cy.style([
       style: {
         'shape': 'round-rectangle', // More modern node shape
         'background-color': '#3498db', // A pleasant blue color
-        'label': 'data(id)', 
+        'label': 'data(name)', 
         'text-valign': 'center',
         'text-halign': 'center',
         'font-size': '12px',
         'color': 'white' // White label text for contrast
+        'width': 120, // Set the node width to 50 pixels
+        'height': 80, // Set the node height to 50 pixels
       }
     },
     {
@@ -34,7 +36,7 @@ cy.style([
         'curve-style': 'bezier', // Smooth curves for edges
         'target-arrow-shape': 'triangle', // Add arrowheads
         'target-arrow-color': '#95a5a6', 
-        'label': 'data(label)', // Assuming you have 'label' in your edge data
+        'label': 'data(interaction)', // Assuming you have 'label' in your edge data
         'text-margin-y': -10, // Offset labels above the edge line
         'text-outline-width': 1,   // Add a subtle outline for labels
         'text-outline-color': '#3498db' // Outline color matching node color
