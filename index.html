@@ -1,27 +1,92 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Cytoscope.js Graph</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-        <link rel="stylesheet" href="https://unpkg.com/@material-ui/core@latest/dist/material-ui.min.css">
-        <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.23.0/dist/cytoscape.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/xlsx@0.17.0/dist/xlsx.full.min.js"></script> <!-- SheetJS Library -->
-        <link rel="stylesheet" href="style.css">
-    </head>
+<head>
+    <title>Cytoscope.js Graph</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://unpkg.com/@material-ui/core@latest/dist/material-ui.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.23.0/dist/cytoscape.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.17.0/dist/xlsx.full.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Splash Screen Styles */
+        #splash-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        #splash-screen h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        #splash-screen p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            text-align: center;
+            line-height: 1.5;
+            margin-bottom: 2rem;
+        }
+
+        #splash-screen button {
+            padding: 0.8rem 1.5rem;
+            background-color: #6C3483;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #splash-screen button:hover {
+            background-color: #4A235A;
+        }
+    </style>
+</head>
 <body>
-    <div class="MuiContainer-root">
+    <div id="splash-screen">
+        <h1>Welcome to the LLM Knowledge Graph</h1>
+        <p>This webapp was build by Andrew Turk, MBA as a grad thesis presentation. It was made with assistance from ChatGPT, Anthropic Claude, and Google Gemini. The goal of this webapp is to shares a knowledge graph about large language model technology with lawmakers, educators, students, businesses, and managers.</p>
+        <button id="enter-btn">Enter</button>
+    </div>
+
+    <div class="MuiContainer-root" style="display: none;">
         <div id="cy"></div>
         <div class="resizer"></div>
         <div id="node-data">
-            <!-- Node details will be displayed here -->
             <h2>Node Details</h2>
             <div id="node-name">Click a node to see details</div>
             <div id="node-details"></div>
         </div>
     </div>
+
     <script src="script.js"></script>
     <script src="resizer.js"></script>
+    <script>
+        // Show the splash screen initially
+        document.querySelector('.MuiContainer-root').style.display = 'none';
+
+        // Add an event listener to the "Enter" button
+        document.getElementById('enter-btn').addEventListener('click', function() {
+            // Hide the splash screen
+            document.getElementById('splash-screen').style.display = 'none';
+
+            // Show the main content
+            document.querySelector('.MuiContainer-root').style.display = 'block';
+        });
+    </script>
 </body>
 </html>
