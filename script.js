@@ -27,7 +27,7 @@ cy.style([
         'font-size': '12px',
         'color': 'white', // White label text for contrast
         'width': 120, // Set the node width to 50 pixels
-        'height': 80, // Set the node height to 50 pixels
+        'height': 80 // Set the node height to 50 pixels
       }
     },
     {
