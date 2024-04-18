@@ -38,6 +38,13 @@ cy.style([
         'text-outline-width': 1,   // Add a subtle outline for labels
         'text-outline-color': '#3498db' // Outline color matching node color
       }
+    },
+
+    {
+      selector: 'core',
+      style: {
+        'background-color': '#f5f5f5'
+      }
     }
   ]);
   
