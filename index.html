@@ -6,19 +6,19 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://unpkg.com/@material-ui/core@latest/dist/material-ui.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.x.x/dist/cytoscape.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.23.0/dist/cytoscape.min.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="MuiContainer-root">
         <div id="cy"></div>
+        <div class="resizer"></div>
         <div id="node-data" style="padding: 20px; background-color: white; color: black;">
             <!-- Node details will be displayed here -->
             <h2>Node Details</h2>
             <div id="node-name">Click a node to see details</div>
             <div id="node-details"></div>
         </div>
-        <div class="resizer"></div>
     </div>
     <script src="script.js"></script>
     <script src="resizer.js"></script>
