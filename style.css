@@ -15,7 +15,7 @@ body, html {
 }
 
 .MuiContainer-root {
-    height: 85%;
+    height: 95%;
     display: flex;
     flex-direction: column;
 }
