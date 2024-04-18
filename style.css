@@ -47,13 +47,15 @@ html {
   
   #node-data {
     margin-top: 1.5em;
-    margin-left: 28em;
-    margin-right: 28em;
+    margin-left: 5em;
+    margin-right: 5em;
     text-align: justify;
     line-height: 2.2;
+    padding-left: 6em;
+    padding-right: 6em;
     margin-bottom: 2em;
-
-    font-size: 2rem; /* 16px at base font size */
+    padding-bottom: 3em;
+    font-size: 1.3rem;
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
