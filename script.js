@@ -52,17 +52,25 @@ cy.style([
 const cyContainer = document.getElementById('cy-container');
 const resizeHandle = document.getElementById('resize-handle');
 let isResizing = false;
-let lastHeight = 865; // Initial height
+let lastHeight = 500; // Initial height
 
 resizeHandle.addEventListener('mousedown', function(e) {
   isResizing = true;
-  lastHeight = cyContainer.offsetHeight;
+  lastHeight = cyContainer.offsetHeight; 
 });
 
 window.addEventListener('mousemove', function(e) {
   if (!isResizing) return;
 
-  const newHeight = lastHeight + e.clientY - e.offsetY; 
+  // Calculate new height based on mouse movement
+  const offset = e.clientY - e.offsetY; 
+  let newHeight = lastHeight + offset; 
+  
+  // Enforce a minimum height (optional)
+  if (newHeight < 100) { // Set your desired minimum height
+    newHeight = 100;
+  }
+
   cyContainer.style.height = newHeight + 'px';
 });
 
