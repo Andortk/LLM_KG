@@ -2,7 +2,7 @@
 var cy = cytoscape({
     container: document.getElementById('cy') // Assumes you have a <div id="cy"></div> in your HTML
     
-    // zoom: 2,
+     zoom: 2,
 
   });
   
