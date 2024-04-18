@@ -1,7 +1,9 @@
 // Initialization
 var cy = cytoscape({
     container: document.getElementById('cy') // Assumes you have a <div id="cy"></div> in your HTML
-    zoom: 2,
+    
+    zoom: 2
+
   });
   
   // Loading data from the CYJS file
@@ -87,3 +89,49 @@ window.addEventListener('mousemove', function(e) {
 window.addEventListener('mouseup', function() {
   isResizing = false;
 });
+
+
+// Adding event listener for node 'click' events
+cy.on('click', 'node', function(evt) {
+  var node = evt.target;
+  var nodeName = node.data('name'); // Assuming 'name' is the field in your node data
+  console.log('Node clicked:', nodeName);
+  updatePageWithData(nodeName); // Function to update HTML based on node name
+});
+
+// Function to retrieve and display data based on node name
+function updatePageWithData(nodeName) {
+  // Using SheetJS to read Excel file - Assuming you have a way to serve this file to the client
+  var url = "descriptions.xlsx"; // Path to your Excel file
+  fetch(url).then(function(res) {
+    if(!res.ok) throw new Error("Failed to load the Excel file");
+    return res.arrayBuffer();
+  })
+  .then(function(buffer) {
+    var data = new Uint8Array(buffer);
+    var workbook = XLSX.read(data, {type: 'array'});
+
+    var sheetName = workbook.SheetNames[0];
+    var worksheet = workbook.Sheets[sheetName];
+    var excelData = XLSX.utils.sheet_to_json(worksheet);
+
+    // Find the data for the node
+    var nodeData = excelData.find(row => row.Name === nodeName);
+    if (nodeData) {
+      displayNodeData(nodeData);
+    } else {
+      console.error("No data found for node:", nodeName);
+    }
+  })
+  .catch(function(error) {
+    console.error("Error processing the Excel file:", error);
+  });
+}
+
+// Function to display data on the page
+function displayNodeData(nodeData) {
+  // Assume you have an HTML element with id 'node-data' to display node data
+  var dataContainer = document.getElementById('node-data');
+  dataContainer.innerHTML = `<h1>${nodeData.Name}</h1>
+                             <p>Details: ${nodeData.Description}</p>`; // Customize as needed
+}
