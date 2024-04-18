@@ -18,29 +18,44 @@ function applyStylesAndLayout() {
       {
           selector: 'node',
           style: {
-              'shape': 'round-rectangle',
-              'background-color': '#3498db',
-              'label': 'data(name)',
-              'text-valign': 'center',
-              'text-halign': 'center',
-              'font-size': '12px',
-              'color': 'white',
-              'width': 120,
-              'height': 80
+            'shape': 'round-rectangle',
+            'background-color': '#3498db',
+            'label': 'data(name)',
+            'text-valign': 'center',
+            'text-halign': 'center',
+            'font-size': '12px',
+            'color': 'white',
+            'width': 'label',
+            'height': 'label',
+            'padding': '10px',
+            'text-wrap': 'wrap',
+            'text-max-width': '150px',
+            'border-width': '2px',
+            'border-color': '#2980b9',
+            'border-style': 'solid',
+            'border-opacity': 0.5,
+            'shadow-blur': '10px',
+            'shadow-color': '#2c3e50',
+            'shadow-opacity': 0.5,
+            'shadow-offset-x': '0px',
+            'shadow-offset-y': '0px'
           }
       },
       {
           selector: 'edge',
           style: {
-              'width': 3,
-              'line-color': '#95a5a6',
-              'curve-style': 'bezier',
-              'target-arrow-shape': 'triangle',
-              'target-arrow-color': '#95a5a6',
-              'label': 'data(interaction)',
-              'text-margin-y': -10,
-              'text-outline-width': 1,
-              'text-outline-color': '#3498db'
+            'width': 3,
+            'line-color': '#95a5a6',
+            'curve-style': 'bezier',
+            'target-arrow-shape': 'triangle',
+            'target-arrow-color': '#95a5a6',
+            'label': 'data(interaction)',
+            'text-margin-y': -10,
+            'text-outline-width': 1,
+            'text-outline-color': '#3498db',
+            'target-arrow-fill': 'filled',
+            'arrow-scale': 2,
+            'line-style': 'solid'
           }
       },
       {
@@ -52,7 +67,7 @@ function applyStylesAndLayout() {
   ]);
 
 
-  
+
   /*
   // Optional: Apply a layout for automatic positioning
   var layout = cy.layout({
