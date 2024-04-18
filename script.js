@@ -42,12 +42,18 @@ function applyStylesAndLayout() {
               'text-outline-width': 1,
               'text-outline-color': '#3498db'
           }
-      }
+      },
+      {
+        selector: 'core',
+        style: {
+              'background-color': '#f5f5f5',  
+        }
+    }
   ]);
 
   // Optional: Apply a layout for automatic positioning
   var layout = cy.layout({
-      name: 'grid'
+      name: 'breadthfirst'
   });
   layout.run();
 
