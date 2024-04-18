@@ -1,6 +1,7 @@
 // Initialization
 var cy = cytoscape({
     container: document.getElementById('cy') // Assumes you have a <div id="cy"></div> in your HTML
+    zoom: 2,
   });
   
   // Loading data from the CYJS file
@@ -50,7 +51,7 @@ cy.style([
   
   // Optional: Apply a layout for automatic positioning
   var layout = cy.layout({
-    name: 'cose' // Try other layouts like 'grid', 'circle', 'breadthfirst'
+    name: 'grid' // Try other layouts like 'grid', 'circle', 'breadthfirst'   'cose'
   });
   layout.run(); 
   
