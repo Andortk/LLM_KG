@@ -2,7 +2,7 @@
 var cy = cytoscape({
     container: document.getElementById('cy') // Assumes you have a <div id="cy"></div> in your HTML
     
-    zoom: 2
+    zoom: 2,
 
   });
   
@@ -25,7 +25,7 @@ cy.style([
         'text-valign': 'center',
         'text-halign': 'center',
         'font-size': '12px',
-        'color': 'white' // White label text for contrast
+        'color': 'white', // White label text for contrast
         'width': 120, // Set the node width to 50 pixels
         'height': 80, // Set the node height to 50 pixels
       }
