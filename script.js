@@ -19,22 +19,22 @@ function applyStylesAndLayout() {
           selector: 'node',
           style: {
             'shape': 'round-rectangle',
-            'background-color': '#3498db',
+            'background-color': '#6C3483', // Rich purple color
             'label': 'data(name)',
             'text-valign': 'center',
             'text-halign': 'center',
-            'font-size': '12px',
+            'font-size': '14px',
             'color': 'white',
             'width': 'label',
             'height': 'label',
-            'padding': '10px',
+            'padding': '20px',
             'text-wrap': 'wrap',
-            'text-max-width': '150px',
+            'text-max-width': '200px',
             'border-width': '2px',
-            'border-color': '#2980b9',
+            'border-color': '#4A235A', // Darker shade of purple
             'border-style': 'solid',
-            'border-opacity': 0.5,
-            'shadow-blur': '10px',
+            'border-opacity': 0.8,
+            'shadow-blur': '15px',
             'shadow-color': '#2c3e50',
             'shadow-opacity': 0.5,
             'shadow-offset-x': '0px',
@@ -45,14 +45,14 @@ function applyStylesAndLayout() {
           selector: 'edge',
           style: {
             'width': 3,
-            'line-color': '#95a5a6',
+            'line-color': '#B3B3B3', // Light gray color
             'curve-style': 'bezier',
             'target-arrow-shape': 'triangle',
-            'target-arrow-color': '#95a5a6',
+            'target-arrow-color': '#6C3483', // Same purple color as nodes
             'label': 'data(interaction)',
-            'text-margin-y': -10,
-            'text-outline-width': 1,
-            'text-outline-color': '#3498db',
+            'text-margin-y': -20,
+            'text-outline-width': 2,
+            'text-outline-color': 'white', // White outline for better visibility
             'target-arrow-fill': 'filled',
             'arrow-scale': 2,
             'line-style': 'solid'

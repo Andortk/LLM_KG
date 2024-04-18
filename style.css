@@ -46,13 +46,14 @@ html {
   }
   
   .node-data {
-    padding-top: 2rem; /* 24px at base font size */
-    padding-bottom: 2rem; /* 24px at base font size */
-    padding-left: 9rem; /* 24px at base font size */
-    padding-right: 9rem; /* 24px at base font size */
+    margin-top: 1.5em;
+    margin-left: 28em;
+    margin-right: 28em;
+    text-align: justify;
+    line-height: 2.2;
+    margin-bottom: 2em;
 
     font-size: 2rem; /* 16px at base font size */
-    line-height: 1.5;
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
