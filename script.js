@@ -19,7 +19,7 @@ function applyStylesAndLayout() {
           selector: 'node',
           style: {
             'shape': 'round-rectangle',
-            'background-color': '#6C3483', // Rich purple color
+            'background-color': '#00A759', // Rich purple green
             'label': 'data(name)',
             'text-valign': 'center',
             'text-halign': 'center',
@@ -31,7 +31,7 @@ function applyStylesAndLayout() {
             'text-wrap': 'wrap',
             'text-max-width': '200px',
             'border-width': '2px',
-            'border-color': '#4A235A', // Darker shade of purple
+            'border-color': '#3d8f58', // Darker shade of green
             'border-style': 'solid',
             'border-opacity': 0.8,
             'shadow-blur': '15px',
@@ -44,11 +44,11 @@ function applyStylesAndLayout() {
       {
           selector: 'edge',
           style: {
-            'width': 3,
+            'width': 2,
             'line-color': '#B3B3B3', // Light gray color
             'curve-style': 'bezier',
             'target-arrow-shape': 'triangle',
-            'target-arrow-color': '#6C3483', // Same purple color as nodes
+            'target-arrow-color': '#447c5a', // Same purple color as nodes
             'label': 'data(interaction)',
             'text-margin-y': -20,
             'text-outline-width': 2,
